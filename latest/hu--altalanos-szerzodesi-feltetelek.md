@@ -416,3 +416,5 @@ Szolgáltató jogosult továbbá rendkívüli felmondást érvényesíteni és a
 **13.8.** Felek a jelen szerződésben vállalt feladataikat jóhiszeműen, egymás üzleti érdekeinek megfelelően hajtják végre, szem előtt tartva azt, hogy valamennyi általuk vagy az együttműködés során közösen végrehajtott feladat költséghatékony és a hatályos jogszabályoknak és műszaki előírásoknak minden tekintetben megfelelő megoldáson kell, hogy alapuljon.
 
 **13.9.** Amennyiben Megrendelő írásban nem nyilatkozik Szolgáltató felé arról, hogy hozzájárulását nem adja meg a a Szolgáltató és Megrendelő közötti együttműködés referenciaként történő felhasználásához, úgy Szolgáltató jogosult a Felek közötti szerződést referenciaként felhasználni, weboldalán megjeleníteni.
+
+**13.10.** Az ÁSZF idegen nyelvű és a magyar nyelvű verziói közötti bármely eltérés esetén, a magyar nyelvű szöveg az irányadó.
