@@ -6,7 +6,7 @@ Az Indivizo webes alkalmazás, használatához stabil internetkapcsolat megléte
 
 ## Támogatott eszközök, operációs rendszerek
 
-A támogatott operációs rendszerek a Windows 7, Windows 8, Windows 10, ill. a Mac OS X 10.7+.
+A támogatott operációs rendszerek a Windows 7, Windows 8, Windows 10, ill. a Mac OS X 10.9+.
 
 Alkalmazásunk használható Linux disztribúciókon is, ám ehhez támogatást nem tudunk nyújtani, tesztelést Linux operációs rendszeren nem folytatunk.
 
