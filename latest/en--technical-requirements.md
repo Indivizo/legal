@@ -1,6 +1,6 @@
 # Technical Requirements
 
-Effective from 23 February, 2016.
+Effective from 12 October, 2016.
 
 Indivizo is a web application. As such it requires a stable internet connection.
 
@@ -59,12 +59,10 @@ Analytics, statistics and data for support requests are tracked here.
 #### Windows 7, 8, 10
 
 * Google Chrome, two latest versions;
-* Mozilla Firefox, two latest versions;
 
 #### Mac OS X 10.9+
 
 * Google Chrome, two latest versions;
-* Mozilla Firefox, two latest versions;
 
 Recording video interviews on mobile devices, tablets are not supported. It is on our development roadmap to introduce support for them.
 
