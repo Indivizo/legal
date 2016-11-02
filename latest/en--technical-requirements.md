@@ -20,6 +20,7 @@ Mobile devices, tablets are not supported. It is on our development roadmap to i
 * Google Chrome, two latest versions;
 * Mozilla Firefox, two latest versions;
 * Internet Explorer 10 and 11.
+* Microsoft Edge
 
 #### Mac OS X 10.9+
 
