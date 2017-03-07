@@ -1,6 +1,6 @@
 # Általános Szerződési Feltételek
 
-Hatályos 2016. január 4-től.
+Hatályos 2017. március 7-től.
 
 - [1. Bevezető, általános rendelkezések](#bevezeto)
 - [2. A szolgáltatás bemutatása](#szolgaltatas-bemutatasa)
@@ -18,7 +18,7 @@ Hatályos 2016. január 4-től.
 
 ## <a name="bevezeto"></a> 1. Bevezető, általános rendelkezések
 
-**1.1.** A jelen Általános Szerződési Feltételek (a továbbiakban: ÁSZF, vagy Általános Szerződési Feltételek) tartalmazzák az Indivizo Kft. (székhely: 1123 Budapest, Alkotás u. 17-19., Cg.: 01-09-177435, a továbbiakban: Szolgáltató) által üzemeltetett [https://app.indivizo.com](https://app.indivizo.com) webcím alatt elérhető alkalmazás (a továbbiakban: Alkalmazás), valamint a [www. indivizo.com](http://www.indivizo.com) ill. [www.indivizo.hu](http://www.indivizo.hu) webcímek alatt elérhető weboldalon (a továbbiakban: Weboldal) az ÁSZF szerint nyújtható szolgáltatások (a szolgáltatások összessége a továbbiakban: Szolgáltatás) nyújtására és igénybevételére vonatkozó jogokat és kötelezettségeket.
+**1.1.** A jelen Általános Szerződési Feltételek (a továbbiakban: ÁSZF, vagy Általános Szerződési Feltételek) tartalmazzák az Indivizo Kft. (székhely: 1123 Budapest, Alkotás u. 17-19., Cg.: 01-09-177435, a továbbiakban: Szolgáltató) által üzemeltetett [https://app.indivizo.com](https://app.indivizo.com) webcím alatt elérhető alkalmazás (a továbbiakban: Alkalmazás), valamint a [www.indivizo.com](http://www.indivizo.com) ill. [www.indivizo.hu](http://www.indivizo.hu) webcímek alatt elérhető weboldalon (a továbbiakban: Weboldal) az ÁSZF szerint nyújtható szolgáltatások (a szolgáltatások összessége a továbbiakban: Szolgáltatás) nyújtására és igénybevételére vonatkozó jogokat és kötelezettségeket.
 
 Az ÁSZF elérhető a Szolgáltató honlapján:
 [www.indivizo.hu/altalanos-szerzodesi-feltetelek](http://www.indivizo.hu/altalanos-szerzodesi-feltetelek), továbbá kérésre az ügyfélszolgálat elektronikus úton, papíron vagy adathordozón elküldi.
@@ -41,24 +41,30 @@ Jelen ÁSZF a Felek között létrejövő kötelmekre külön, és kifejezetten 
 
 **2.2.1.** A Megrendelő a Szolgáltatónak megadott felhasználónév és a rendszer által generált jelszó segítségével éri el a Szolgáltatást. A további felhasználókat a Megrendelő adhatja hozzá a rendszerhez.
 
-Az Alkalmazás segítségével Megrendelő kiválasztási, keresési folyamatokat kezelhet állások, pozíciók betöltésének céljából. Online jelentkezési űrlap segítségével fogadhat jelentkezéseket olyan személyektől, akik érdeklődnek a meghirdetett pozíció betöltését illetően, és arra jelentkeznek, pályázási szándékukat kifejezve (továbbiakban Jelentkező, ill. Jelentkezők vagy Jelölt ill. Jelöltek).
+Az Alkalmazás segítségével Megrendelő kiválasztási, keresési folyamatokat kezelhet állások, pozíciók betöltésének céljából. Online jelentkezési űrlap, vagy direkt meghívás (mass invite) segítségével fogadhat jelentkezéseket olyan személyektől, akik érdeklődnek a meghirdetett pozíció betöltését illetően, és arra jelentkeznek, pályázási szándékukat kifejezve (továbbiakban Jelentkező, ill. Jelentkezők vagy Jelölt ill. Jelöltek).
 
 Megrendelőnek a Szolgáltatás révén lehetősége van:
 
-* Egyedi kiválasztási folyamatok kialakítására;
-* Online jelentkezések fogadására Jelentkezőktől a kiválasztáshoz szolgáltatott jelentkezési űrlap segítségével;
-* Jelentkezők adatlapjának, azon esetlegesen csatolt önéletrajzainak, egyéb dokumentumjainak megtekintésére;
-* Jelentkezők előszűrésére;
-* Csapatmunkában jelentkezők értékelésére, szavazásra;
+* Egyedi kiválasztási folyamatok kialakítására,
 * Előre rögzített interjútervek létrehozására a beépített kompetencia alapú kérdésbank vagy egyedi kérdések alkalmazásával;
+* Online jelentkezések fogadására Jelentkezőktől a kiválasztáshoz szolgáltatott jelentkezési űrlap segítségével vagy direkt videointerjú meghívás formájában,
+* Jelentkezők adatlapjának, azon esetlegesen csatolt önéletrajzainak, egyéb dokumentumjainak megtekintésére;
+* Különböző előszűrési lépcsők alkalmazásával (online form, videointerjú, serious games, továbbá egyedi kiválasztási lépcsők) hozzáadásával a jelentkezők szűrésére
+* Csapatmunkában jelentkezők értékelésére, szavazásra; kommentek elhelyezésére, “jelölők” használatára,
 * Aszinkron videointerjúk megtekintésére és értékelésére;
+* Serious games alapú kompetencia profil eredményeinek megtekintésére és értékelésére,
+* Egyedi kiválasztási lépcsők esetén az adott lépcsőben a jelöltek információinak rögzítésére,
 * Jelöltek tájékoztatására (részben) automatizált kommunikáció segítségével;
 * Shortlist létrehozására Jelöltekből;
-* Saját korábbi jelentkezők adatainak elérésére.
+* Jelöltek bemutatására egyedi megosztás formájában,
+* Saját korábbi jelentkezők adatainak elérésére,
+* User profilok szerkesztésére,
+* Kiválasztási csapatok összeállítására,
+* Jogosultságok kezelésére,
 
 A Szolgáltatás - a megrendelt csomagtól függően - eltérő funkcionalitással és volumen korláttal rendelkezhet az egyes funkciók elérésére vonatkozóan. Az csomagok, valamint azokba foglalt szolgáltatások, azok árazása elérhető a Szolgáltató honlapján: [www.indivizo.hu/arak](http://www.indivizo.hu/arak).
 
-**2.2.2.** A Jelentkezők az Alkalmazást regisztrációt követően érik el. A regisztrációt követően feltölthetik álláspályázatukat az online jelentkezési űrlap segítségével és videointerjún vehetnek részt. Jelentkezők további álláspályázataikat a regisztráció során megadott email cím és jelszó beírását követően egyszerűbben érhetik el.
+**2.2.2.** A Jelentkezők az Alkalmazást regisztrációt követően érik el. A regisztrációt követően feltölthetik álláspályázatukat az online jelentkezési űrlap segítségével, továbbá gamifikált kompetenciafelmérésben és videointerjún vehetnek részt. Jelentkezők további álláspályázataikat a regisztráció során megadott email cím és jelszó beírását követően egyszerűbben érhetik el.
 
 **2.3.** Üzemeltetés, support tevékenység
 
@@ -67,7 +73,6 @@ Szolgáltató üzemeltetést biztosít (továbbiakban: Üzemeltetési Szolgálta
 A Szolgáltató képviselői munkanapokon 9 és 17 óra között (továbbiakban Ügyeleti idő)
 
 * a support@indivizo.com email címre küldött emailben,
-* a [https://support.indivizo.com](https://support.indivizo.com) webcímen beküldött hibajeggyel,
 * ill. az alkalmazás különböző részeibe beépített, segítségkérésre használatos űrlap kitöltésével és beküldésével érhetőek el.
 
 **2.4.** A Szolgáltató az Üzemeltetési Szolgáltatás részeként emailben történő segítségnyújtást, supportot biztosít a Megrendelő munkatársai, felhasználói ill. a Jelentkezők részére. A Szolgáltató munkatársai a jelen ÁSZF 2.3-as pontjában leírtaknak megfelelően érkezett megkeresés alapján segítséget nyújtanak és tanácsot adnak a felhasználóknak, a jelentkezőknek illetve a Megrendelő érdekében eljáró képviselőjének illetve megbízottjának a Szolgáltatással kapcsolatban felmerülő problémák, kérdések diagnosztizálásában és megoldásában.
@@ -78,7 +83,7 @@ A Szolgáltató képviselői munkanapokon 9 és 17 óra között (továbbiakban 
 
 A hiba bejelentésekor a Megrendelőnek legalább az alábbi információkat kell a Szolgáltató rendelkezésére bocsátania:
 
-* A használt és hibásnak ítélt  Szolgáltatás funkciójának megnevezését
+* A használt és hibásnak ítélt Szolgáltatás funkciójának megnevezését
 * Az operációs rendszert és böngészőt, amelyen a Szolgáltatást használják
 * A hiba pontos és világos leírását, amennyiben lehetséges a hibát alátámasztó dokumentumokat (képernyőfotók, hibaüzenetek stb.), annak leírását, hogy mely munkafolyamat során észlelték a hibát.
 
@@ -92,7 +97,7 @@ Szolgáltató – saját döntési kompetenciájában – előírhatja a hibabej
 
 * amennyiben Megrendelő megszegi az ÁSZF-ben foglalt kötelezettségeit,
 * a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák esetén,
-* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a  szolgáltatás elérhetetlenségének esetén,
+* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlenségének esetén,
 * az internetszolgáltató hibájából történő elérhetetlenség, ill. lassú működés esetén,
 * olyan hibák esetén, amelyek Szolgáltató véleménye szerint nem hozhatók összefüggésbe a Szolgáltatással, vagy amelyek egyértelműen harmadik fél szoftverével vagy hardverével hozhatók összefüggésbe.
 
@@ -106,11 +111,11 @@ A szolgáltatás nyújtása közben keletkező, vagy tudomására jutó informá
 
 A jelen szerződés keretében vállalt Üzemeltetési Szolgáltatás és a szavatosság nem terjed ki
 
-* a Szolgáltatáshoz kapcsolódó Megrendelői oldali operációs rendszer környezet  és egyéb szoftverek karbantartására illetve hibaelhárítására, a Megrendelő illetve harmadik fél által szállított vagy megvalósított szoftverre, interfészekre, hardver elemekre, hálózati környezetre,
+* a Szolgáltatáshoz kapcsolódó Megrendelői oldali operációs rendszer környezet és egyéb szoftverek karbantartására illetve hibaelhárítására, a Megrendelő illetve harmadik fél által szállított vagy megvalósított szoftverre, interfészekre, hardver elemekre, hálózati környezetre,
 * a Megrendelői oldalon történt illetéktelen beavatkozásból, lopásból, külső erőszakos rongálásból, a berendezések nem rendeltetésszerű használatából adódó szoftveres károk, adatbázis sérülések helyreállítására,
 * a Szolgáltatás felhasználóinak szakszerűtlen szoftverhasználatából eredő hibákra,
 * a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák javítására,
-* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a  szolgáltatás elérhetetlenségére,
+* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlenségére,
 * az internetszolgáltató hibájából történő elérhetetlenségéből, ill. lassú működéséből adódó hibák javítására,
 * a Megrendelő hibájából, a Szolgáltatónak nem felróható módon bekövetkező vírus okozta hibák javítására,
 * az elemi csapásokból származó károk helyreállítására.
@@ -186,7 +191,7 @@ Csomagváltás történhet
 
 **5.2.1.** Csomagváltás emailben történő igénybejelentése
 
-Megrendelő  a jelen ÁSZF 2.3. pontjában meghatározott Ügyeleti időben és Ügyeleti időn kívül is emailben jelezheti Szolgáltató felé szolgáltatási csomag váltási igényét. A Megrendelő által emailen küldött megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de Ügyeleti időben legfeljebb 1 munkanapon belül köteles reagálni. Az igények feldolgozását követően Szolgáltató emailben igazolja vissza Megrendelő felé a csomagváltás tényét, és aktiválja az új csomagot.
+Megrendelő a jelen ÁSZF 2.3. pontjában meghatározott Ügyeleti időben és Ügyeleti időn kívül is emailben jelezheti Szolgáltató felé szolgáltatási csomag váltási igényét. A Megrendelő által emailen küldött megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de Ügyeleti időben legfeljebb 1 munkanapon belül köteles reagálni. Az igények feldolgozását követően Szolgáltató emailben igazolja vissza Megrendelő felé a csomagváltás tényét, és aktiválja az új csomagot.
 
 **5.2.2.** Csomagváltás online módon
 
@@ -196,9 +201,9 @@ Megrendelő az Alkalmazás segítségével bármikor megváltoztathatja aktuáli
 
 **6.1.** Megrendelő a Szolgáltatás nyújtásáért - a Free Csomag kivételével - a jelen ÁSZF 5.1 pontjában rögzített helyen meghirdetett és a megrendelést vagy csomagváltást követően visszaigazolt díj (a továbbiakban Szolgáltatási Díj) fizetésére kötelezett. A Szolgáltatási Díj - amennyiben csomagváltásra nem kerül sor - szolgáltatási ciklusonként fizetendő. A szolgáltatási ciklusok 30 naposak, az első szolgáltatási ciklus kezdete a megrendelés visszaigazolásának napja. Csomagváltás esetén az aktuális szolgáltatási ciklus végén az aktuális csomag Szolgáltatási Díjának a csomagváltás időpontjáig kalkulált időarányos része, valamint az új csomag Szolgáltatási Díjának szolgáltatási ciklus végének időpontjáig kalkulált időarányos részének összege kerül kiszámlázásra.
 
-Megrendelő tudomásul veszi, hogy a Szolgáltatási Díjat akkor is köteles teljes egészében megfizetni a Szolgáltató részére, amennyiben   a megrendelt szolgáltatást a Megrendelő saját érdekkörében felmerült okból nem veszi igénybe. Megrendelő köteles a mindenkori Szolgáltatási Díj megfizetésére abban az esetben is, ha a szolgáltatási csomagváltás következtében a kibővült szolgáltatásokat a saját érdekkörében felmerült okból nem veszi igénybe.
+Megrendelő tudomásul veszi, hogy a Szolgáltatási Díjat akkor is köteles teljes egészében megfizetni a Szolgáltató részére, amennyiben a megrendelt szolgáltatást a Megrendelő saját érdekkörében felmerült okból nem veszi igénybe. Megrendelő köteles a mindenkori Szolgáltatási Díj megfizetésére abban az esetben is, ha a szolgáltatási csomagváltás következtében a kibővült szolgáltatásokat a saját érdekkörében felmerült okból nem veszi igénybe.
 
-**6.2.** A Megrendelő a csomag típusától függően eltérő számú kiválasztást indíthat egy 30 napos Szolgáltatási Ciklusban. A Free Csomagban a kiválasztások és videointerjúk száma  korlátozott, egyéb csomagok esetén választott csomagban korlátozott számú kiválasztás, de adott kiválasztáson belül korlátlan számú videointerjú érhető el a Megrendelő számára.
+**6.2.** A Megrendelő a csomag típusától függően eltérő számú kiválasztást indíthat egy 30 napos Szolgáltatási Ciklusban. A Free Csomagban a kiválasztások és videointerjúk száma korlátozott, egyéb csomagok esetén választott csomagban korlátozott számú kiválasztás, de adott kiválasztáson belül korlátlan számú videointerjú érhető el a Megrendelő számára.
 
 **6.3.** A választott csomag Szolgáltatási Díja tartalmazza a szoftver folyamatos üzemeltetését jelen ÁSZF-ben foglaltak szerint, továbbá magában foglalja a rendszeres adatmentés elkészítését, és a kiszolgálótól független helyen történő tárolását, korlátlan számú belépést a rendszerbe, garantált ügyfélszolgálati segítséget és technikai segítségnyújtást a jelen ÁSZF-ben foglaltak szerint, továbbá a folyamatos fejlesztéseket.
 
@@ -214,7 +219,7 @@ Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepn
 
 * a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett kimaradások,
 * az internetszolgáltató hibájából történő elérhetetlenség,
-* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a  szolgáltatás elérhetetlensége,
+* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlensége,
 * olyan hibákból adódó elérhetetlenség, amelyek Szolgáltató véleménye szerint nem hozhatók összefüggésbe a Szolgáltatással, vagy amelyek egyértelműen harmadik fél szoftverével vagy hardverével hozhatók összefüggésbe.
 
 **6.4.** A Szolgáltatási Díj a Szolgáltatónak az ÁSZF-ben meghatározott feladatok ellátásával kapcsolatban felmerült minden költségét, kiadását magában foglalja, további követelés a feladatok ellátásával összefüggésben nem érvényesíthető.
@@ -241,7 +246,7 @@ Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepn
 
 **8.5.** A Szolgáltató a Szolgáltatás nyújtásába a Megrendelő előzetes tájékoztatása nélkül is jogosult alvállalkozót bevonni, akinek munkájáért teljes felelősséggel tartozik. A Szolgáltató köteles biztosítani, hogy a bevonni kívánt alvállalkozók az Adatvédelmi irányelveket, ill. jelen ÁSZF 11. pontjában leírtakat betartsák.
 
-**8.6.** A Szolgáltató vállalja, hogy az általa biztosított Alkalmazást megfelelő jogosultsági rendszerrel látja el.  Jogosultság kezelés terén a Szolgáltató köteles:
+**8.6.** A Szolgáltató vállalja, hogy az általa biztosított Alkalmazást megfelelő jogosultsági rendszerrel látja el. Jogosultság kezelés terén a Szolgáltató köteles:
 
 * biztosítani, hogy az egyes felhasználói fiókok használatakor a Szolgáltatást igénybevevő egyes jogi személyek csakis és kizárólag a saját adataikhoz férjenek hozzá,
 * biztosítani, hogy a felhasználók egyedi azonosítókon keresztül férjenek hozzá az Alkalmazáshoz,
@@ -263,7 +268,7 @@ Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepn
 
 **8.11.** A Szolgáltató az adatokat a legkorszerűbb hardver- és szoftvertámogatás mellett különösen védi a jogosulatlan hozzáféréstől, megváltoztatástól, továbbítástól, nyilvánosságra hozataltól.
 
-**8.12.** A Szolgáltató által kezelt adatokat kizárólag Szolgáltatónak és a Megrendelőnek a Szolgáltatás  céljainak megvalósításában résztvevő munkavállalói és alvállalkozói ismerhetik meg, akiket munkaszerződésük és a foglalkoztatásukra vonatkozó jogszabályi rendelkezések alapján valamennyi általuk megismert adat tekintetében titoktartási kötelezettség terhel, valamint a jelen ÁSZF 12. pontjában leírtak betartására kötelesek.
+**8.12.** A Szolgáltató által kezelt adatokat kizárólag Szolgáltatónak és a Megrendelőnek a Szolgáltatás céljainak megvalósításában résztvevő munkavállalói és alvállalkozói ismerhetik meg, akiket munkaszerződésük és a foglalkoztatásukra vonatkozó jogszabályi rendelkezések alapján valamennyi általuk megismert adat tekintetében titoktartási kötelezettség terhel, valamint a jelen ÁSZF 12. pontjában leírtak betartására kötelesek.
 
 Szolgáltató jogosult – nem rendeltetésszerű használat (beleértve a jelen ÁSZF-ben foglaltak megszegését, vagy bármely olyan cselekményt, ami a Szolgáltató jó hírnevét, társadalmi, üzleti megítélését sértheti), illetve 20 napot meghaladó fizetési késedelem esetén - Megrendelő hozzáférését inaktiválni vagy Free csomagra módosítani.
 
@@ -284,7 +289,7 @@ Ha a korlátozásra okot adó körülmények megszűnnek, Szolgáltató haladék
 
 ## <a name="megrendelo-jogai-kotelezettsegei"></a> 9. Megrendelő jogai és kötelezettségei
 
-**9.1.** Megrendelő köteles a jelen Szerződés rendelkezéseit betartani, továbbá köteles minden olyan cselekménytől vagy mulasztástól tartózkodni, amely többek között a Szolgáltató jó hírnevét, társadalmi, üzleti megítélését sértheti. A Megrendelő köteles a Szolgáltatás rendeltetésszerű használatára, azaz a Szolgáltatást kizárólag jogszerű módon és célokra, jelen szerződés és a vonatkozó jogszabályi rendelkezések betartásával használhatja.
+**9.1.** Megrendelő köteles a jelen ÁSZF rendelkezéseit betartani, továbbá köteles minden olyan cselekménytől vagy mulasztástól tartózkodni, amely többek között a Szolgáltató jó hírnevét, társadalmi, üzleti megítélését sértheti. A Megrendelő köteles a Szolgáltatás rendeltetésszerű használatára, azaz a Szolgáltatást kizárólag jogszerű módon és célokra, jelen szerződés és a vonatkozó jogszabályi rendelkezések betartásával használhatja.
 
 **9.2.** Az információbiztonság elérése érdekében a Megrendelő köteles:
 
@@ -292,9 +297,11 @@ Ha a korlátozásra okot adó körülmények megszűnnek, Szolgáltató haladék
 * a Szolgáltató felé a biztonsági incidenseket az elérhető legrövidebb időn belül jelezni,
 * a Szolgáltatóval együttműködni a biztonsági incidensek nyomozása során.
 
-**9.3.** A Szolgáltatás során személyes adatok rögzítésére csak akkor kerülhet sor, ha az érintett személyek személyes adataiknak a Megrendelő és a Szolgáltató általi kezeléséhez hozzájárultak. Megrendelő csak olyan listára küldhet tömeges emailt (pl.: videointerjú felkérésre vonatkozó linket), amely lista tagjai kifejezetten Megrendelőnek és kifejezetten az adott tartalom küldésére adtak hozzájárulást.
+**9.3.** A Szolgáltatás során személyes adatok rögzítésére csak akkor kerülhet sor, ha az érintett személyek személyes adataiknak a Megrendelő és a Szolgáltató általi kezeléséhez hozzájárultak. Megrendelő csak olyan listára küldhet tömeges emailt (pl.: videointerjú felkérésre vonatkozó linket), amely lista tagjai kifejezetten Megrendelőnek és kifejezetten az adott tartalom küldésére adtak hozzájárulást. A Megrendelő által kiküldött meghívók esetén Megrendelő szavatolja, hogy az általa kezelt jelöltadatok (név, email cím, egyéb) jogszerűen kerültek a Megrendelő birtokába és azokat jogszerűen, a Jelöltek hozzájáruló nyilatkozatának birtokában kezeli, továbbá Megrendelő felelőssége és feladata a Jelöltek tájékoztatása arról, hogy a Szolgáltató adatfeldolgozói minőségben van jelen a folyamatban.
 
-**9.4.** A Szolgáltatás igénybevétele során keletkező adatok (pl. önéletrajzok, videointerjú file-ok, értékelések) kizárólagos jogosultja a Megrendelő. Az Adatvédelmi irányelvek szabályozzák a keletkező adatok Szolgáltató általi tárolását és átadását.
+**9.4.** A Szolgáltatás igénybevétele során keletkező adatok (pl. önéletrajzok, videointerjú file-ok, értékelések) kizárólagos jogosultja a Megrendelő. Ez alól kivétel a Free csomag igénybevétele, ahol a Szolgáltatás igénybevétele során keletkező minden adat vonatkozásában adatkezelő a Szolgáltató és a Jelöltek hozzájárulásával jogosult a Jelölteket saját marketing célokból is megkeresni és ezen megkeresésekhez a Szolgáltatás igénybevétele során keletkező adatokat felhasználni.
+
+Az Adatvédelmi irányelvek szabályozzák a keletkező adatok Szolgáltató általi kezelését illetve feldolgozását (tárolását, átadását).
 
 **9.5.** A Szolgáltató felhívja Megrendelő figyelmét arra, hogy a birtokába kerülő önéletrajzok, videófájlok és egyéb dokumentumok személyes adatokat tartalmaznak. A Megrendelő kijelenti és szavatolja, hogy a Szolgáltató által a jelen ÁSZF alapján hozzáférhetővé tett személyes adatokat összhangban az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénnyel (a továbbiakban Infotv), az egyének a személyes adatok gépi feldolgozása során történő védelméről szóló 1998. évi VI. törvénnyel, és a Polgári törvénykönyvről szóló 2013. évi V. törvénnyel – bizalmasan kezeli, és kizárólag az adott Szolgáltatás céljára használhatja fel, azokat harmadik személyek számára ki nem adja, hozzáférhetővé nem teszi.
 
@@ -302,7 +309,7 @@ Megrendelő köteles gondoskodni a birtokába jutott személyes adatok védelmé
 
 Megrendelő tudomásul veszi, hogy az általa végzett jogosulatlan adatkezelésből eredő bármilyen nemű károkozásért teljes felelősséggel tartozik a hatályos jogszabályok rendelkezéseinek megfelelően.
 
-**9.6.** A Megrendelő felelősséggel tartozik azért, hogy a Szolgáltatás használatához biztosított jelszó illetéktelen személy birtokába ne kerüljön.  A Megrendelő köteles mindent megtenni annak érdekében, hogy megakadályozzon minden jogosulatlan hozzáférést a Szolgáltatáshoz, ilyen eset felmerülése esetén pedig haladéktalanul köteles tájékoztatni a Szolgáltatót.  A Megrendelő jelszavainak biztonságos tárolásáért, illetve az ebből eredő károkért a Szolgáltató semmilyen felelősséget nem vállal.
+**9.6.** A Megrendelő felelősséggel tartozik azért, hogy a Szolgáltatás használatához biztosított jelszó illetéktelen személy birtokába ne kerüljön. A Megrendelő köteles mindent megtenni annak érdekében, hogy megakadályozzon minden jogosulatlan hozzáférést a Szolgáltatáshoz, ilyen eset felmerülése esetén pedig haladéktalanul köteles tájékoztatni a Szolgáltatót. A Megrendelő jelszavainak biztonságos tárolásáért, illetve az ebből eredő károkért a Szolgáltató semmilyen felelősséget nem vállal.
 
 **9.7.** Felek kifejezetten rögzítik, hogy a Szolgáltatást kizárólag a Megrendelővel munkaviszonyban vagy alvállalkozói jogviszonyban álló személyek használhatják kizárólag a Megrendelő részére végzett kiválasztás keretében.
 
@@ -310,9 +317,9 @@ Megrendelő tudomásul veszi, hogy az általa végzett jogosulatlan adatkezelés
 
 **9.9.** A Megrendelő köteles haladéktalanul megtéríteni Szolgáltatónak mindazon bírságot, kártérítést és költséget, amit a jelen ÁSZF és a vonatkozó jogszabályi rendelkezések Megrendelő, munkavállalója vagy alvállalkozója általi megszegése folytán az illetékes hatóságok vagy harmadik személyek a Szolgáltatóval szemben érvényesítenek. A Megrendelő köteles a Szolgáltató helyett a hatósággal, illetőleg a jogosulttal szemben közvetlenül helytállni, a hatóságnak, illetve a jogosultnak az esedékességkor megfizetni az előzőekben említett bírságot, kártérítést és költséget, vagy ha azt már a Szolgáltató megtérítette, Megrendelőnek a Szolgáltatóval szemben van azonnali megtérítési kötelezettsége.
 
-**9.10.** A Szolgáltatás tartalma (pl.: Alkalmazásban található szöveg, adat, videó, audió, kép, kompetencia- és kérdésbank stb. – a továbbiakban: Anyagok) – ide nem értve a Megrendelő és a jelentkezők által a Szolgáltató rendelkezésére bocsátott anyagokat, valamint a kérdésbankban a  Megrendelő által létrehozott egyéni interjúkérdéseket – a Szolgáltató kizárólagos szellemi tulajdonát képezi, annak – akár online, akár nyomtatott vagy bármilyen egyéb módon történő – felhasználására kizárólag a Szolgáltató előzetes hozzájárulásával (engedélyével) kerülhet sor. A Weboldal és az Alkalmazás tartalmának egyes részei kizárólag egyéni (saját) felhasználás céljából menthetők vagy nyomtathatók ki. Ez a jogosultság azonban nem jelent hozzájárulást (engedélyt) a letöltött anyagok kereskedelmi céllal történő többszörözéséhez, terjesztéséhez, hozzáférhetővé (letölthetővé) tételéhez, adatbázisban való tárolásához, illetve bármilyen átdolgozásához. A Szolgáltató weboldalán található logókat és képeket harmadik személyek csak kifejezett engedéllyel használhatják fel. A felhatalmazás nélkül történő felhasználásuk sérti a szerzői és a személyiségi jogok védelméről szóló jogszabályokat.
+**9.10.** A Szolgáltatás tartalma (pl.: Alkalmazásban található szöveg, adat, videó, audió, kép, kompetencia- és kérdésbank stb. – a továbbiakban: Anyagok) – ide nem értve a Megrendelő és a jelentkezők által a Szolgáltató rendelkezésére bocsátott anyagokat, valamint a kérdésbankban a Megrendelő által létrehozott egyéni interjúkérdéseket – a Szolgáltató kizárólagos szellemi tulajdonát képezi, annak – akár online, akár nyomtatott vagy bármilyen egyéb módon történő – felhasználására kizárólag a Szolgáltató előzetes hozzájárulásával (engedélyével) kerülhet sor. A Weboldal és az Alkalmazás tartalmának egyes részei kizárólag egyéni (saját) felhasználás céljából menthetők vagy nyomtathatók ki. Ez a jogosultság azonban nem jelent hozzájárulást (engedélyt) a letöltött anyagok kereskedelmi céllal történő többszörözéséhez, terjesztéséhez, hozzáférhetővé (letölthetővé) tételéhez, adatbázisban való tárolásához, illetve bármilyen átdolgozásához. A Szolgáltató weboldalán található logókat és képeket harmadik személyek csak kifejezett engedéllyel használhatják fel. A felhatalmazás nélkül történő felhasználásuk sérti a szerzői és a személyiségi jogok védelméről szóló jogszabályokat.
 
-**9.11.** A Megrendelő számára jelen szerződésben biztosított jogokon kívüli, a Szolgáltatás feletti szellemi alkotáshoz fűződő  összes jogot a Szolgáltató fenntartja. Megrendelő nem jogosult semmiféle többszörözésre, átdolgozásra, feldolgozására, fordításra, illetve bármely más módosítására. Megrendelő nem folytathatja a rendszerrel kapcsolatban különösen az alábbi tevékenységeket: (al)felhasználási engedélyek adása vagy átruházása, jogosultságok engedményezése, kereskedelem, a rendszer alkotórészeire szétválasztása, illetve ezek megkísérlése, forráskód felhasználása, módosítása, terjesztése, továbbadása, bérmunka (a Szolgáltatással szolgáltatások nyújtása harmadik fél részére). A Szolgáltatás alapjául szolgáló szoftvert tilos visszafordítani, visszafejteni, belső felépítését elemezni.
+**9.11.** A Megrendelő számára jelen szerződésben biztosított jogokon kívüli, a Szolgáltatás feletti szellemi alkotáshoz fűződő összes jogot a Szolgáltató fenntartja. Megrendelő nem jogosult semmiféle többszörözésre, átdolgozásra, feldolgozására, fordításra, illetve bármely más módosítására. Megrendelő nem folytathatja a rendszerrel kapcsolatban különösen az alábbi tevékenységeket: (al)felhasználási engedélyek adása vagy átruházása, jogosultságok engedményezése, kereskedelem, a rendszer alkotórészeire szétválasztása, illetve ezek megkísérlése, forráskód felhasználása, módosítása, terjesztése, továbbadása, bérmunka (a Szolgáltatással szolgáltatások nyújtása harmadik fél részére). A Szolgáltatás alapjául szolgáló szoftvert tilos visszafordítani, visszafejteni, belső felépítését elemezni.
 
 **9.12.** A Megrendelő nem jogosult az általa igénybe vett Szolgáltatás „átruházására”, kizárólag a saját nevében veheti igénybe a Szolgáltatást.
 
@@ -330,11 +337,11 @@ A Szolgáltató a vis maior miatti vagy az azzal összefüggésben keletkezett k
 
 **10.5.** A Megrendelő tudomásul veszi, hogy a Szolgáltató semmilyen felelősséget nem vállal a Szolgáltatás bármely okból történő kimaradásával összefüggésben felmerült károkért.
 
-**10.6.** Mind a Szolgáltató, mind pedig a Megrendelő az érintettek személyes adatait bizalmasan, a hatályos jogszabályi előírásokkal összhangban köteles kezelni és gondoskodni azok biztonságáról. E körben Felek vállalják, hogy megteszik  azokat a technikai és szervezési intézkedéseket, valamint kialakítják azokat az eljárási szabályokat, amelyek az információs önrendelkezési jogról és az információszabadságról 2011. évi CXII. törvény valamint az egyéb hatályos jogszabályok adat-és titokvédelmi rendelkezéseinek érvényre juttatásához szükségesek. A Szolgáltató és a Megrendelő által végzett adatkezelésre alkalmazandó továbbá Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény.
+**10.6.** Mind a Szolgáltató, mind pedig a Megrendelő az érintettek személyes adatait bizalmasan, a hatályos jogszabályi előírásokkal összhangban köteles kezelni és gondoskodni azok biztonságáról. E körben Felek vállalják, hogy megteszik azokat a technikai és szervezési intézkedéseket, valamint kialakítják azokat az eljárási szabályokat, amelyek az információs önrendelkezési jogról és az információszabadságról 2011. évi CXII. törvény valamint az egyéb hatályos jogszabályok adat-és titokvédelmi rendelkezéseinek érvényre juttatásához szükségesek. A Szolgáltató és a Megrendelő által végzett adatkezelésre alkalmazandó továbbá Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény.
 
 **10.7.** Megrendelő tudomásul veszi, hogy az általa végzett jogosulatlan adatkezelésből eredő bármilyen nemű károkozásért teljes felelősséggel tartozik.
 
-**10.8.** A Szolgáltató a Megrendelő magatartásáért más felhasználókkal, illetve harmadik személlyel szemben semmilyen felelősséggel, illetve helytállási kötelezettséggel sem tartozik. A Szolgáltató nem vállal semmilyen felelősséget olyan – elsősorban vírus okozta – károkért, amelyek  a Megrendelő számítástechnikai berendezésében vagy egyéb tulajdonában a belépés, a Szolgáltatás használata során keletkezett. A Szolgáltató szintén nem vállal felelősséget a Szolgáltatásnak az internetszolgáltató hibájából történő elérhetetlenségéért, lassú működéséért, ill. a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák esetén, továbbá a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a  szolgáltatás elérhetetlenségéért. Kizárt a Szolgáltató felelőssége minden olyan magatartásért (különösen kárért), amely a Szolgáltatás szakszerűtlen, jogszerűtlen, nem szerződésszerű használatából ered, illetve a Megrendelőnek a Szolgáltatás igénybevételével remélt anyagi hasznának a vártnál csekélyebb mértékéért, az anyagi haszon elmaradásáért, illetve veszteségért.  A Szolgáltató szintén nem felelős a személyes, illetve bizalmas információk elvesztéséből, a hardver vagy szoftver egészének vagy egy részének használhatatlanságából származó károkért vagy veszteségekért.
+**10.8.** A Szolgáltató a Megrendelő magatartásáért más felhasználókkal, illetve harmadik személlyel szemben semmilyen felelősséggel, illetve helytállási kötelezettséggel sem tartozik. A Szolgáltató nem vállal semmilyen felelősséget olyan – elsősorban vírus okozta – károkért, amelyek a Megrendelő számítástechnikai berendezésében vagy egyéb tulajdonában a belépés, a Szolgáltatás használata során keletkezett. A Szolgáltató szintén nem vállal felelősséget a Szolgáltatásnak az internetszolgáltató hibájából történő elérhetetlenségéért, lassú működéséért, ill. a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák esetén, továbbá a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlenségéért. Kizárt a Szolgáltató felelőssége minden olyan magatartásért (különösen kárért), amely a Szolgáltatás szakszerűtlen, jogszerűtlen, nem szerződésszerű használatából ered, illetve a Megrendelőnek a Szolgáltatás igénybevételével remélt anyagi hasznának a vártnál csekélyebb mértékéért, az anyagi haszon elmaradásáért, illetve veszteségért. A Szolgáltató szintén nem felelős a személyes, illetve bizalmas információk elvesztéséből, a hardver vagy szoftver egészének vagy egy részének használhatatlanságából származó károkért vagy veszteségekért.
 
 **10.9.** A Szolgáltató a jelen szerződésből származó maximális kárfelelőssége bármilyen – akár szerződésben érintett, akár szerződésen kívüli – kár esetén nem haladhatja meg a Megrendelő által a jelen szerződés alapján fizetett díjak, maximum kettő számlázási ciklus összegét. A Szolgáltató által alkalmazott díjak tükrözik az itt meghatározott korlátozást.
 
@@ -367,7 +374,7 @@ Szolgáltató a fent leírt körülmények bármelyikéből eredő közvetlen, k
 
 **12.2.** Szerződésmódosítás
 
-A Felek között létrejött szerződés módosításának minősül a Megrendelő általi szolgáltatási csomag váltás. A szerződés ilyen jellegű módosítását a Megrendelő a jelen ÁSZF 5.2. pontjában foglaltaknak megfelelően kezdeményezheti.  A szerződésmódosítás a Szolgáltató általi emailben történő visszaigazolással hatályosul.
+A Felek között létrejött szerződés módosításának minősül a Megrendelő általi szolgáltatási csomag váltás. A szerződés ilyen jellegű módosítását a Megrendelő a jelen ÁSZF 5.2. pontjában foglaltaknak megfelelően kezdeményezheti. A szerződésmódosítás a Szolgáltató általi emailben történő visszaigazolással hatályosul.
 
 **12.3.** Nem minősül szerződésmódosításnak a Felek cégjegyzékben nyilvántartott adataiban, így különösen a székhelyében, képviselőiben, bankszámlaszámában bekövetkező változás, továbbá a szerződéskötés és teljesítés során eljáró szervezet és a kapcsolattartók adataiban bekövetkező változás. Az említett változásokról az érintett fél a másik felet – az eset körülményeitől függően – vagy előzetesen írásban 10 napos határidővel vagy a változás bekövetkezését (bejegyzését) követő 10 napon belül köteles értesíteni.
 
@@ -380,7 +387,7 @@ A Felek között létrejött szerződés módosításának minősül a Megrendel
 
 **12.5.** Rendes felmondás
 
-A Felek közötti szerződést a Megrendelő  30 napos felmondási idővel, a Szolgáltató 60 napos felmondási idővel írásban (email útján) mondhatja fel, indoklási kötelezettség nélkül.
+A Felek közötti szerződést a Megrendelő 30 napos felmondási idővel, a Szolgáltató 60 napos felmondási idővel írásban (email útján) mondhatja fel, indoklási kötelezettség nélkül.
 
 **12.6.** Rendkívüli felmondás
 
@@ -401,7 +408,7 @@ Szolgáltató jogosult továbbá rendkívüli felmondást érvényesíteni és a
 
 **13.1.** Jelen ÁSZF-re a magyar jog rendelkezései irányadóak. Jelen ÁSZF-ben nem szabályozott kérdésekben a 2013. évi V. törvény (Polgári Törvénykönyv) rendelkezései az irányadóak.
 
-**13.2.** A Szolgáltató jogosult a jelen ÁSZF egyoldalú módosítására olyan módon, hogy weboldalán  közzéteszi az ÁSZF új változatát. Amennyiben Megrendelő a módosítást követően bármely Szolgáltatást használni kezd, az a módosított ÁSZF elfogadását jelenti.
+**13.2.** A Szolgáltató jogosult a jelen ÁSZF egyoldalú módosítására olyan módon, hogy weboldalán közzéteszi az ÁSZF új változatát. Amennyiben Megrendelő a módosítást követően bármely Szolgáltatást használni kezd, az a módosított ÁSZF elfogadását jelenti.
 
 **13.3.** Amennyiben jelen ÁSZF bármely rendelkezése érvénytelennek, jogszerűtlennek vagy végrehajthatatlannak minősülne, úgy ez a tény nem érinti a jelen ÁSZF többi rendelkezésének érvényességét, jogszerűségét és végrehajthatóságát. Felek kötelesek megtenni mindent annak érdekében, hogy az érintett rendelkezést a Felek gazdasági céljainak megfelelő végrehajtható rendelkezéssel helyettesítsék.
 

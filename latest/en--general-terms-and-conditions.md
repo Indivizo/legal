@@ -1,6 +1,6 @@
 # General Terms and Conditions
 
-Effective from 4 January, 2016.
+Effective from 7 March, 2016.
 
 - [1. Introduction and general provisions](#introduction)
 - [2. Description of services](#description-of-services)
@@ -18,23 +18,15 @@ Effective from 4 January, 2016.
 
 ## <a name="introduction"></a> 1. Introduction and general provisions
 
-**1.1.** These General Terms and Conditions (hereinafter: GTC or General Terms
-and Conditions) include the rights and obligations relating to the provision and
-use of the services provided by Indivizo Ltd. (registered seat: 1123 Budapest,
-Alkotás u. 17-19., company registration no.: 01-09-177435, hereinafter: Service Provider) under the GTC (hereinafter: Service), the application accessible at [https://app.indivizo.com](https://app.indivizo.com) (hereinafter: Application), and the websites [www.indivizo.com](http://www.indivizo.com) and [www.indivizo.hu](http://www.indivizo.hu) (hereinafter: Website).
-GTC are available at the website of the Service Provider:
-[www.indivizo.com/general-terms-and-conditions](http://www.indivizo.com/general-terms-and-conditions) (In Hungarian: [www.indivizo.hu/altalanos-szerzodesi-feltetelek](http://www.indivizo.hu/altalanos-szerzodesi-feltetelek)). Upon request the customer service sends the GTC to the Client by paper or by electronic means (by email or on an electronic storage medium).
+**1.1.** These General Terms and Conditions (hereinafter: GTC or General Terms and Conditions) include the rights and obligations relating to the provision and use of the services provided by Indivizo Ltd. (registered seat: 1123 Budapest, Alkotás u. 17-19., company registration no.: 01-09-177435, hereinafter: Service Provider) under the GTC (hereinafter: Service), the application accessible at [https://app.indivizo.com](https://app.indivizo.com) (hereinafter: Application), and the websites [www.indivizo.com](http://www.indivizo.com) and [www.indivizo.hu](http://www.indivizo.hu) (hereinafter: Website). GTC are available at the website of the Service Provider: [www.indivizo.com/general-terms-and-conditions](http://www.indivizo.com/general-terms-and-conditions) (In Hungarian: [www.indivizo.hu/altalanos-szerzodesi-feltetelek).](http://www.indivizo.hu/altalanos-szerzodesi-feltetelek).) Upon request the customer service sends the GTC to the Client by paper or by electronic means (by email or on an electronic storage medium).
 
 **1.2.** Service Provider provides Service as regulated in the GTC after the online order. Confirmation of the online order is considered as conclusion of contract. The present GTC shall be applicable to all contracts concluded under their effect.
 
-
-**1.3.** The client ordering the Service is hereinafter referred to as Client; Service Provider and Client together are hereinafter referred to as Parties. Service Provider undertakes to provide the Services intended to be used by Client in a contractual manner, and Client undertakes to fully comply with the conditions of the GTC and pay the fee of the service as ordered. Customer undertakes, with regard to the provision of the Service, to perform all actions and provide all information required for the provision of the Service. Service Provider will provide the individual elements of the Service through the functions of the Application.
-Upon the conclusion of the contracts the content of the GTC (including the documents referred to in the GTC) shall be deemed to have been acknowledged and accepted by the Client, and it shall be applicable to the obligations of the Parties.
+**1.3.** The client ordering the Service is hereinafter referred to as Client; Service Provider and Client together are hereinafter referred to as Parties. Service Provider undertakes to provide the Services intended to be used by Client in a contractual manner, and Client undertakes to fully comply with the conditions of the GTC and pay the fee of the service as ordered. Customer undertakes, with regard to the provision of the Service, to perform all actions and provide all information required for the provision of the Service. Service Provider will provide the individual elements of the Service through the functions of the Application. Upon the conclusion of the contracts the content of the GTC (including the documents referred to in the GTC) shall be deemed to have been acknowledged and accepted by the Client, and it shall be applicable to the obligations of the Parties.
 
 The GTC shall always be applicable to the obligations undertaken by the parties, even in the absence of special and express provisions to that effect.
 
-**1.4.**  Client acknowledges that no order shall be considered as accepted by Service Provider unless such order is confirmed by the Service Provider. If more than one confirmation is given in relation to a certain order, then the last confirmation relating to the given service shall prevail. Service Provider shall not be liable for the performance of orders that have not been confirmed.
-
+**1.4.** Client acknowledges that no order shall be considered as accepted by Service Provider unless such order is confirmed by the Service Provider. If more than one confirmation is given in relation to a certain order, then the last confirmation relating to the given service shall prevail. Service Provider shall not be liable for the performance of orders that have not been confirmed.
 
 ## <a name="description-of-services"></a> 2. Description of services
 
@@ -42,25 +34,29 @@ The GTC shall always be applicable to the obligations undertaken by the parties,
 
 **2.2.** Access to the Service for Clients and Applicants
 
-**2.2.1.** Client can access the Service by using a user name generated by the Client and a password generated by the system. Further users can be added to the system by Client.
-With the help of the Application Client is able to manage recruitment processes in order to fill vacancies. With the use of the online application form Client can receive applications from people who are interested in the positions advertised and who apply for these positions (hereinafter referred to as Applicant, Applicants).
+**2.2.1.** Client can access the Service by using a user name generated by the Client and a password generated by the system. Further users can be added to the system by Client. With the help of the Application Client is able to manage recruitment processes in order to fill vacancies. With the use of the online application form or the direct invitation (mass invite) function Client can receive applications from people who are interested in the positions advertised and who apply for these positions (hereinafter referred to as Applicant, Applicants).
 
 Client while using the Service has the following possibilities:
 
-* creating and managing unique recruitment processes;
-* receiving online applications from Applicants by using the online application form provided by Service Provider;
-* viewing Applicants’ application forms, CVs or other documents attached (if any);
-* pre-selection of Applicants;
-* evaluating Applicants, voting to Applicants in team work;
+* creating and managing unique recruitment processes,
 * creating pre-recorded interview plans by using the built-in competence based question bank or by creating Client’s own list of questions;
-* viewing and assessing one-way video interviews;
+* receiving online applications from Applicants by using the online application form provided by the Service Provider or by using the direct video interview invitation function;
+* viewing Applicants’ application forms, CVs or other documents attached (if any);
+* selecting Applicants by using and adding different pre-selection steps (online form, video interview,  serious games, other unique steps)
+* evaluating Applicants in team work, voting for/against and commenting Applicants, using “markers”;
+* viewing and assessing asyncron video interviews;
+* viewing and assessing competency profiles based on serious games;
 * informing Applicants with a (partly) automated communication system;
-* creating shortlists from the Applicants;
-* accessing the data of Applicants evaluated in previous recruitment processes.
+* creating shortlists from Applicant lists;
+* presenting Applicants by sharing their data;
+* accessing the data of Applicants evaluated in previous recruitment processes;
+* editing user profiles;
+* creating recruiting teams;
+* managing access rights.
 
 The functions of the Service may vary and there might be limitations on the volume of accessing different functions depending on the service package ordered by the Client. The service packages and elements of Service included in the packages together with the prices are available at Service Provider’s website: [www.indivizo.com/pricing](http://www.indivizo.com/pricing).
 
-**2.2.2.** Applicants can access the Application following a registration process. After registration they are able to upload their job applications by using an online application form and they can take part in a video interview. Applicants can easily reach their applications uploaded in earlier recruitment processes by using the email address given at the registration process and their password.
+**2.2.2.** Applicants can access the Application following a registration process. After registration they are able to upload their job applications by using an online application form and they can take part in gamification based competency tests and video interviews. Applicants can easily reach their applications uploaded in earlier recruitment processes by using the email address given at the registration process and their password.
 
 **2.3.** Maintenance, support
 
@@ -69,7 +65,6 @@ Service Provider provides maintenance to the Service in order that the colleague
 The representative of the Service Provider between 9 am and 17 pm on weekdays (hereinafter: Duty Period)
 
 * can be reached via email (<support@indivizo.com>)
-* via an incident ticket created on the website [https://support.indivizo.com](https://support.indivizo.com)
 * or via forms that can be filled and sent in at different pages of the Application.
 
 **2.4.** Service Provider within the frames of the Maintenance Service provides support in email for the colleagues and users of Client and for Applicants. As regulated in Section 2.3. of the present GTC colleagues of the Service Provider give advice to Clients or representatives of the Clients and Applicants in email in order to diagnose and solve any problems related to the Service.
@@ -78,9 +73,7 @@ The representative of the Service Provider between 9 am and 17 pm on weekdays (h
 
 **2.5.1.** Client can report problems to Service Provider related to the maintenance of the Service in the ways described in Section 2.3. of the present GTC. Service Provider shall start error correction based on Client’s request immediately (if possible) but in the Duty Period maximum within one working day.
 
-
 When reporting the error, Client should provide at least the following information to Service Provider:
-
 
 * the name of the function used by Client that is considered to be erroneous;
 * the operation system and browser in which the Service is used;
@@ -104,15 +97,14 @@ If Client (under the conditions of the present section) is not entitled to the M
 
 **2.8.** Obligations of Service Provider during the Maintenance Service
 
-Service Provider shall hold in strict confidence and not disclose any information gained during the provision of the Maintenance Service.
-Service Provider is not entitled to store such information. Service Provider is entitled to save such information only upon Client’s request. Service Provider shall not disclose such information towards any third parties.
-
+Service Provider shall hold in strict confidence and not disclose any information gained during the provision of the Maintenance Service. Service Provider is not entitled to store such information. Service Provider is entitled to save such information only upon Client’s request. Service Provider shall not disclose such information towards any third parties.
 
 **2.9.** Limitations to the support activity and to liability
+
 The Maintenance Service provided under the present GTC shall not include
 
 * maintaining or fixing the operation system, network, interfaces, software or hardware of the Client or any other third parties (even if the use of these items is related to the use of the Service),
-* dealing with software or database damages caused by maladjustment or misuse of any equipment,  illegal modifications to software or hardware, theft, physical damage occurring on the Client’s side,
+* dealing with software or database damages caused by maladjustment or misuse of any equipment, illegal modifications to software or hardware, theft, physical damage occurring on the Client’s side,
 * correction of errors due to inadequate software use on the Client’s side,
 * correcting errors due to the lack of Technical Requirements defined in Section 2.11. of the present GTC,
 * fixing inaccessibility problems resulting from the operation of firewalls or other solutions blocking internet communication used by Client,
@@ -126,9 +118,11 @@ The Maintenance Service provided under the present GTC shall not include
 * if the error results from the support activity of or settings made by any party other than the Service Provider
 
 **2.11.** Technical Requirements for the operation of the Service
+
 The Technical Requirements for the operation of the Service (hereinafter: Technical Requirements) are available at: [www.indivizo.com/technical-requirements](http://www.indivizo.com/technical-requirements).
 
 **2.12.** Protection of data handled during the operation of the Service
+
 The policy regulating the protection of data handled during the operation of the Service (hereinafter Privacy Policy) is available at the website of the Service Provider: [www.indivizo.com/privacy-policy](http://www.indivizo.com/privacy-policy).
 
 ## <a name="placement-of-orders"></a> 3. Placement of orders
@@ -140,14 +134,13 @@ The policy regulating the protection of data handled during the operation of the
 
 **3.1.1** Giving a notice of request by email
 
-Client may give its notice of need for Services by sending an email for the Service Provider to the email address info@indivizo.com, or other email addresses published at the Website (Client emails relating to services will hereinafter mean sending emails to the said email addresses).  Client will set forth in the email message its requirements concerning the Service and define the service package ordered. The email should include all the necessary data that is at least the following:
+Client may give its notice of need for Services by sending an email for the Service Provider to the email address info@indivizo.com, or other email addresses published at the Website (Client emails relating to services will hereinafter mean sending emails to the said email addresses). Client will set forth in the email message its requirements concerning the Service and define the service package ordered. The email should include all the necessary data that is at least the following:
 
 * name, registered seat, tax number, bank account number of Client, any other details necessary for issuing an invoice to the Client, the name of the representative and name and contact details of the contact person,
 * the service package to be ordered
 * the name and email address of the person (hereinafter: Admin account) who is entitled to add users to the existing account on behalf of the Client using the Application.
 
-**3.1.2** Notice of request by filling in a form at the website
-Client can send a notice to Service Provider defining the requests concerning the Service ordered by filling in a form published at the Website. In this case Client’s account is created after filling in the online form and providing the obligatory data (name of Client, registered seat, tax number, name and contact details of contact person, data concerning the size of the company). Service Provider confirms the submitted order either on the online interface or via email. The agreement between the Parties shall be effective from the confirmation of the order.
+**3.1.2** Notice of request by filling in a form at the website Client can send a notice to Service Provider defining the requests concerning the Service ordered by filling in a form published at the Website. In this case Client’s account is created after filling in the online form and providing the obligatory data (name of Client, registered seat, tax number, name and contact details of contact person, data concerning the size of the company). Service Provider confirms the submitted order either on the online interface or via email. The agreement between the Parties shall be effective from the confirmation of the order.
 
 When upgrading from the free package to any other package where a service fee is payable Client’s access will be modified after Client has provided the bank card details. The upgrade is confirmed by Service Provider either on the online interface or via email. The modification of the agreement shall be effective from the confirmation of the upgrade.
 
@@ -157,13 +150,11 @@ When upgrading from the free package to any other package where a service fee is
 
 **4.1.** Adding an administrator to the system
 
-After the system has processed the order Client is granted an access to the administrator account through which Client can access the Service by using the email address defined by Client and the password previously generated by the system contained in the registration email sent out by Service Provider.
-For security reasons Service Provider suggests that Client should modify passwords regularly. If the email address changes, Client can set the modification of the email address in the Application. Client acknowledges that all data available through the account (data of the recruitment processes and the applicants) will be available to any person using the email address provided when placing the order, this fact should be taken in consideration when assigning administrator roles.
+After the system has processed the order Client is granted an access to the administrator account through which Client can access the Service by using the email address defined by Client and the password previously generated by the system contained in the registration email sent out by Service Provider.  For security reasons Service Provider suggests that Client should modify passwords regularly. If the email address changes, Client can set the modification of the email address in the Application. Client acknowledges that all data available through the account (data of the recruitment processes and the applicants) will be available to any person using the email address provided when placing the order, this fact should be taken in consideration when assigning administrator roles.
 
 **4.2.** Adding a user to the system
 
-The administrator of the Client can add further users to the system under the menu *Administration*.  In order to add a user to the system the provision of a name and a valid email address is required. Service Provider is not liable for any accessibility problems due to an inadequate email address.
-Client warrants that all user accounts added to the system are created for natural individuals having a direct legal relationship with Client (employees, or other natural individuals having a work-related legal relationship with Client or subcontractors of Client), and that, prior to the designation of their email address, they were informed about the purpose of data transfer, their consent to it was acquired, and they were informed about the terms and conditions of the Service.
+The administrator of the Client can add further users to the system under the menu *Administration*. In order to add a user to the system the provision of a name and a valid email address is required. Service Provider is not liable for any accessibility problems due to an inadequate email address. Client warrants that all user accounts added to the system are created for natural individuals having a direct legal relationship with Client (employees, or other natural individuals having a work-related legal relationship with Client or subcontractors of Client), and that, prior to the designation of their email address, they were informed about the purpose of data transfer, their consent to it was acquired, and they were informed about the terms and conditions of the Service.
 
 Client and Client’s users shall use the access right (and the relating ID) properly and purposefully, and shall not provide it, transfer it or make it available to unauthorized third persons.
 
@@ -186,7 +177,7 @@ Packages can be upgraded or downgraded
 
 **5.2.1.** Upgrading or downgrading via email
 
-Client can send an upgrading or downgrading request in an email in the Duty Period or outside the Duty Period defined in Section 2.3. of the present GTC.  Service Provider shall respond to Client’s request immediately (if possible) but in the Duty Period maximum within one working day. After processing the request Service Provider shall confirm in an email to Client that the upgrade or downgrade is successful and shall activate the new service package.
+Client can send an upgrading or downgrading request in an email in the Duty Period or outside the Duty Period defined in Section 2.3. of the present GTC. Service Provider shall respond to Client’s request immediately (if possible) but in the Duty Period maximum within one working day. After processing the request Service Provider shall confirm in an email to Client that the upgrade or downgrade is successful and shall activate the new service package.
 
 **5.2.2.** Upgrading or downgrading online
 
@@ -200,8 +191,7 @@ Client acknowledges that the full amount of Service Fee is payable even if Clien
 
 **6.2.** Client can launch varying number of recruitment processes in a 30-day service cycle depending on the type of the service package. In the Free Package the number of recruitment processes and video interviews is limited. In other packages the number of recruitment processes is limited, however the number of video interviews within the recruitment processes is unlimited.
 
-**6.3.** The Service Fee of the chosen service includes the continuous maintenance of the software as regulated in the present GTC, regular backups, storage of data at an independent location, unlimited access to the system, guaranteed technical support and help desk service (as regulated in the present GTC), furthermore regular development of the system.
-The annual availability of the system is 99.9%. (Annual availability shows the annual possibility to use the service as in reality and as guaranteed by the Service Provider.) The calculation of annual availability is the following:
+**6.3.** The Service Fee of the chosen service includes the continuous maintenance of the software as regulated in the present GTC, regular backups, storage of data at an independent location, unlimited access to the system, guaranteed technical support and help desk service (as regulated in the present GTC), furthermore regular development of the system. The annual availability of the system is 99.9%. (Annual availability shows the annual possibility to use the service as in reality and as guaranteed by the Service Provider.) The calculation of annual availability is the following:
 
 *AA = (1- Ou/Ot) * 100(%)*, where
 
@@ -226,7 +216,7 @@ Annual availability does not involve weekends, public holidays, maintenance peri
 
 **7.3.** In the case of late payment, Customer shall pay default interest to the extent determined by the Civil Code for contracts made by and between enterprises.
 
-**7.4.** If Client is in debt to Service Provider, Service Provider after a 10-day-long delay in payment shall send a notice of payment to Client via email, in which Client is warned to pay the Service Fee within 10 days, otherwise Service Provider will be entitled to suspend the provision of Service as regulated in Section 8.14. of the present GTC. If Client fails to pay the Service Fee in this 10-day notice period Service Provider is entitled to unilaterally modify Client’s service package to the free package as defined in Section 8.12 of the GTC.  In addition, Service Provider is entitled to terminate the agreement with immediate effect as defined in Section 12 of the present document.
+**7.4.** If Client is in debt to Service Provider, Service Provider after a 10-day-long delay in payment shall send a notice of payment to Client via email, in which Client is warned to pay the Service Fee within 10 days, otherwise Service Provider will be entitled to suspend the provision of Service as regulated in Section 8.14. of the present GTC. If Client fails to pay the Service Fee in this 10-day notice period Service Provider is entitled to unilaterally modify Client’s service package to the free package as defined in Section 8.12 of the GTC. In addition, Service Provider is entitled to terminate the agreement with immediate effect as defined in Section 12 of the present document.
 
 ## <a name="rights-and-obligations-of-service-provider"></a> 8. Rights and obligations of Service Provider
 
@@ -256,13 +246,13 @@ Annual availability does not involve weekends, public holidays, maintenance peri
 
 **8.8.** Service Provider shall provide the Service described in the present GTC in compliance with the regulations of Act CXII of 2011 on the right of self-determination relating to information and the freedom of information.
 
-**8.9.** During the provision of the Service  personal data can only be recorded if the person whose personal data is recorded gives his consent to the management and transfer of his personal data by Service Provider and Client.
+**8.9.** During the provision of the Service personal data can only be recorded if the person whose personal data is recorded gives his consent to the management and transfer of his personal data by Service Provider and Client.
 
 **8.10.** Service Provider shall perform all technical and organizational acts to protect personal data and to follow the privacy regulations.
 
 **8.11.** Service Provider shall protect data from illegal access, alteration, transfer or publication by using the most advanced hardware and software support.
 
-**8.12.**  Data processed by Service Provider can only be disclosed to the employees and subcontractors of Service Provider and Client who are involved in the provision or use of the Service, and whose contract of employment contains the relevant non-disclosure provisions, which together with the relevant laws regulate their secrecy concerning all the data obtained during their work.    Employees and subcontractors of Service Provider and Client should follow the regulations set forth in Section 12 of the present GTC.
+**8.12.** Data processed by Service Provider can only be disclosed to the employees and subcontractors of Service Provider and Client who are involved in the provision or use of the Service, and whose contract of employment contains the relevant non-disclosure provisions, which together with the relevant laws regulate their secrecy concerning all the data obtained during their work. Employees and subcontractors of Service Provider and Client should follow the regulations set forth in Section 12 of the present GTC.
 
 Service Provider is entitled to inactivate Client’s access to the Service or downgrade Client’s package to the free package if Client breaches the regulations contained in the present GTC, or infringes the reputation of Service Provider or in case of a payment delay longer than 20 days.
 
@@ -291,9 +281,11 @@ If the circumstances giving the reason for the suspension cease to exist, Servic
 * report any security incident to Service Provider as soon as possible,
 * co-operate with Service Provider when investigating a security incident.
 
-**9.3.** During the provision of the Service  personal data can only be recorded if the person whose personal data is recorded gives his consent to the management and transfer of his personal data by Service Provider and Client. Client shall not send bulk emails (e.g. a link to invite candidates to record video interviews) to people who previously have not given their explicit consent to receiving such emails.
+**9.3.** During the provision of the Service personal data can only be recorded if the person whose personal data is recorded gives his consent to the management and transfer of his personal data by Service Provider and Client. Client shall not send bulk emails (e.g. a link to invite candidates to record video interviews) to people who previously have not given their explicit consent to receiving such emails.  If Client sends out invitations to video interviews, Client shall warrant that personal data of Applicants handled by Client (name, email address, other) have been collected lawfully, and all these data are controlled by Client lawfully and Client possesses all the necessary declarations from the Applicants to control their personal data. Client is responsible and liable for informing the Applicants about Service Provider’s role as a data processor in the process.
 
-**9.4.** Data gathered during the use of the Service (e.g. CVs, video interview files, evaluations) is a property of Client. Privacy Policy regulates the storage and transfer of data by Service Provider.
+**9.4.** Data gathered during the use of the Service (e.g. CVs, video interview files, evaluations) is a property of Client with the exception of the Freemium package  where all the data gathered during the use of the Service is controlled by Service Provider. When the Freemium package is used by Client Service Provider is entitled to communicate marketing messages towards the Applicants (with the Applicants’ consent) and entitled to use the data gathered during the use of the Service.
+
+Privacy Policy regulates data control and data process, the storage and transfer of data by Service Provider.
 
 **9.5.** Service Provider calls the attention of Client that the CVs, video files and other documents uploaded by the users include personal data. Client declares and warrants that, in compliance with the currently applicable laws, in particular Act CXII of 2011 on the right of self-determination relating to information and the freedom of information, Act VI of 1998 on the protection of individuals in the course of processing personal data by machine, and Act V of 2013 on the Civil Code, it will treat the personal data made accessible on the basis of this GTC with confidentiality, and use them exclusively for the purpose of the given service, and that it will not disclose them and will not give access to them for third parties.
 
@@ -305,7 +297,7 @@ Client shall ensure the protection of the personal data obtained from Applicants
 
 **9.8.** If Client uses the Service in a public place (e.g. internet café), apart from the security measures available in the system Client shall do the utmost to protect data. Service Provider shall not be liable and Client shall be exclusively responsible for any data loss or damage arising from the non-compliance with the content of the present clause.
 
-**9.9.**  Client shall refund to Service Provider without delay all fines, damages and costs, and any claims under the civil law, enforced by the competent authorities or third parties against Service Provider, due to the breach of the GTC or the applicable laws by Client, employee or subcontractor of Client. Client shall directly fulfil its commitment towards the competent authority, or other third party and shall pay the fine, damage or cost until the due date. If Service Provider has previously paid the amount, Client shall reimburse Service Provider immediately.
+**9.9.** Client shall refund to Service Provider without delay all fines, damages and costs, and any claims under the civil law, enforced by the competent authorities or third parties against Service Provider, due to the breach of the GTC or the applicable laws by Client, employee or subcontractor of Client. Client shall directly fulfil its commitment towards the competent authority, or other third party and shall pay the fine, damage or cost until the due date. If Service Provider has previously paid the amount, Client shall reimburse Service Provider immediately.
 
 **9.10.** The content of the Service (e.g.: the text, data, audio and video files, pictures, competency and question bank etc., hereinafter referred to as Materials) – excluding the data and files provided by Client and Applicants and the questions in the question bank created by Client – is the intellectual property of Service Provider. Prior consent of the Service Provider is required for the use or publication of the Materials, either online, printed or in any other format. Any parts of the Website or the Application can be saved or printed out only for private use. The right to print or save does not mean a consent from Service Provider to multiply, publish the downloaded material for commercial purposes or to make the material available (downloadable), to store the material in a database or to rework any of the material. The logos and pictures visible on the Website can only be used with a prior consent from Service Provider. The use of logos and pictures without Client’s consent violates the laws and regulations on intellectual property rights.
 
@@ -331,7 +323,7 @@ Service Provider shall not be liable for any damages, loss or disadvantage due t
 
 **10.7.** Client acknowledges that it is fully responsible under the applicable laws for any damages and other claims arising from illegal data management.
 
-**10.8.** Service Provider shall not be liable towards users or any other third parties for the activity of Client. Service Provider shall not be liable for damages occurring in the IT equipment or other property of Client caused primarily by viruses during the access to or use of the Service. Furthermore, Service Provider shall not be liable for the inaccessibility or slow operation of Service due to the internet connection used by Client and for errors due to the lack of Technical Requirements (the link where the Technical Requirements are available is defined in Section 2.11. of the present GTC). Moreover, Service Provider shall not be liable for the inaccessibility or outage of Service due to firewalls or other solutions blocking internet communication used by Client. Service Provider’s liability is excluded for any damages or losses arising from the inadequate, illegal or non-contractual use of the Service.  Service Provider shall not be liable for lost profits, if Client’s profit does not reach the expected level or if Client realizes loss. Service Provider shall not be liable for the loss of personal or confidential data; or damages and losses arising from the non-usability of hardware or software.
+**10.8.** Service Provider shall not be liable towards users or any other third parties for the activity of Client. Service Provider shall not be liable for damages occurring in the IT equipment or other property of Client caused primarily by viruses during the access to or use of the Service. Furthermore, Service Provider shall not be liable for the inaccessibility or slow operation of Service due to the internet connection used by Client and for errors due to the lack of Technical Requirements (the link where the Technical Requirements are available is defined in Section 2.11. of the present GTC). Moreover, Service Provider shall not be liable for the inaccessibility or outage of Service due to firewalls or other solutions blocking internet communication used by Client. Service Provider’s liability is excluded for any damages or losses arising from the inadequate, illegal or non-contractual use of the Service. Service Provider shall not be liable for lost profits, if Client’s profit does not reach the expected level or if Client realizes loss. Service Provider shall not be liable for the loss of personal or confidential data; or damages and losses arising from the non-usability of hardware or software.
 
 **10.9.** Service Provider’s maximum liability (either contractual or non-contractual liability) shall not exceed the Service Fee paid by Client to Service Provider in two invoicing periods. The fees applied by Service Provider reflect the limitation contained herein.
 
@@ -360,29 +352,33 @@ Service Provider shall not be liable for either direct or consequential damages 
 
 ## <a name="effect-modification-termination"></a> 12. Effect, modification, termination
 
-**12.1.** The agreement between the Parties shall become effective when Service Provider confirms Client’s order and  shall principally remain effective for an indefinite period.
+**12.1.** The agreement between the Parties shall become effective when Service Provider confirms Client’s order and shall principally remain effective for an indefinite period.
 
 **12.2.** Modification of the agreement between the Parties
-The agreement between the Parties is modified if Client decides to change between the Service packages available. Client may initiate this type of modification as regulated in Section 5.2 of the present GTC.  The modification is only effective if Service Provider confirms the modification request of Client by email.
 
-**12.3.** The agreement between the Parties is not considered as amended if the data of either of the Parties recorded in the company register change, especially the registered seat, representatives, bank account  number or the contact person or organization managing the conclusion or performance of the contract. Such changes shall be reported to the other Party either 10 days in advance or maximum 10 days after the change or after recording the change in the company register (depending on the circumstances).
+The agreement between the Parties is modified if Client decides to change between the Service packages available. Client may initiate this type of modification as regulated in Section 5.2 of the present GTC. The modification is only effective if Service Provider confirms the modification request of Client by email.
+
+**12.3.** The agreement between the Parties is not considered as amended if the data of either of the Parties recorded in the company register change, especially the registered seat, representatives, bank account number or the contact person or organization managing the conclusion or performance of the contract. Such changes shall be reported to the other Party either 10 days in advance or maximum 10 days after the change or after recording the change in the company register (depending on the circumstances).
 
 **12.4.** The agreement may be terminated
+
 * by mutual agreement between the Parties,
 * if the Client or the Service Provider is liquidated without a legal successor,
 * with a notice period by either of the Parties,
 * with immediate effect by either of the Parties.
 
 **12.5.** Termination with a notice period
+
 The agreement between the Parties may be terminated with a written notice (in an email) without giving the reason for termination. Client can terminate the agreement with a 30-day notice period, while Service Provider may terminate it with a 60-day notice period.
 
 **12.6.** Termination with immediate effect
+
 Termination with immediate effect may be exercised by either of the Parties by sending a written declaration in an email to the other Party in the case of a breach of a material obligation set out in the GTC, if the breaching Party did not cure the breach within the specified number of days granted in the notice previously received from the non-breaching Party.
 
 Service Provider is entitled to terminate the agreement with immediate effect and suspend or delete the account without any further notice if:
 
 * Client’s economic or legal status changes so dramatically in a negative way or these negative changes are anticipated in the near future, which endangers performance of the contract, especially if bankruptcy, liquidation or winding up procedures have been initiated against Client,
-* criminal procedures have been initiated against Client; there is a well-founded suspicion of criminal activity done by an employee, a subcontractor of Client (either private individuals or enterprises)  and as a result investigation procedures are in progress,
+* criminal procedures have been initiated against Client; there is a well-founded suspicion of criminal activity done by an employee, a subcontractor of Client (either private individuals or enterprises) and as a result investigation procedures are in progress,
 * Client provides false information, or breaches its obligation to provide data, or infringes the reputation of Service Provider,
 * Client breaches the confidentiality and non-disclosure provisions.
 
@@ -396,11 +392,11 @@ Service Provider is entitled to terminate the agreement with immediate effect an
 
 **13.2.** Service Provider reserves the right, within the limits provided by the law, to unilaterally amend the GTC by publishing the amended GTC on its website. By using any of the Service after the modification Client accepts the amended GTC and expressly agrees to it.
 
-**13.3.** If any provision of the present GTC is deemed to be invalid, illegal or unenforceable that shall not affect the validity, legality and enforceability of the remaining provisions.  Parties shall negotiate in good faith to replace such invalid, illegal or unenforceable provision with a valid, legal and enforceable provision the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provision.
+**13.3.** If any provision of the present GTC is deemed to be invalid, illegal or unenforceable that shall not affect the validity, legality and enforceability of the remaining provisions. Parties shall negotiate in good faith to replace such invalid, illegal or unenforceable provision with a valid, legal and enforceable provision the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provision.
 
 **13.4.** Notifications related to the GTC are deemed to be duly made if they are sent by post to the postal address of the Party recorded in the order form or by email to the email address of the Party recorded in the order form.
 
-**13.5.** The regulations of GTC  and the Privacy Policy together constitute the entire agreement between the Parties and supersedes all previous negotiations, understandings or agreements (either oral or written)  between the Parties relating to its subject matter.
+**13.5.** The regulations of GTC and the Privacy Policy together constitute the entire agreement between the Parties and supersedes all previous negotiations, understandings or agreements (either oral or written) between the Parties relating to its subject matter.
 
 **13.6.** The Parties will attempt to settle their disputes amicably through negotiations, they do not wish to involve a mediator.
 
