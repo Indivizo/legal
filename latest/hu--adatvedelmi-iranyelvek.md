@@ -1,35 +1,39 @@
 # Adatvédelmi irányelvek
 
-Hatályos 2016. október 26-tól.
+Hatályos 2017 március 7-től.
 
 - [Bevezető](#bevezeto)
 - [Fogalmi meghatározások](#fogalmak)
 - [Az adatkezelés jogalapja](#jogalap)
-- [Milyen információkat gyűjthetünk tőled?](#milyen-informaciok)
-- [Cookie-k és a böngésződ local storage-ének használata](#cookie-k-es-local-storage)
-- [Hol tároljuk személyes adataidat?](#adattarolas-helye)
+- [Milyen információkat gyűjthetünk?](#milyen-informaciok)
+- [Cookie-k és a böngésző local storage-ének használata](#cookie-k-es-local-storage)
+- [Hol tároljuk személyes adatait?](#adattarolas-helye)
 - [Az információk felhasználása](#informaciok-felhasznalasa)
 - [Adatkezelés időtartama](#adatkezeles-idotartama)
-- [Személyes adataid továbbítása](#szemelyes-adataid-tovabbitasa)
-- [Munkáltatód / Potenciális munkáltatód adatkezelése](#munkaltatod-potencialis-munkaltatod-adatkezelese)
+- [Személyes adatai továbbítása](#szemelyes-adataid-tovabbitasa)
+- [Munkáltató / Potenciális munkáltató adatkezelése](#munkaltatod-potencialis-munkaltatod-adatkezelese)
 - [Adatfeldolgozás](#adatfeldolgozas)
-- [Hozzáférés személyes adataidhoz](#hozzaferes-szemelyes-adataidhoz)
+- [Hozzáférés személyes adataihoz](#hozzaferes-szemelyes-adataidhoz)
 - [Jogorvoslati lehetőségek](#jogorvoslati-lehetosegek)
 - [Az Adatvédelmi irányelvek változásainak kezelése](#valtozasok-kezelese)
 - [Kapcsolat](#kapcsolat)
 
 ## <a name="bevezeto"></a> Bevezető
 
-Az Indivizo Kft. (“Mi” ) elkötelezettek vagyunk arra, hogy védjük és tiszteletben tartsuk a személyes adataid védelméhez fűződő jogaidat.
+Az Indivizo Kft. (“Mi” ) elkötelezettek vagyunk arra, hogy védjük és tiszteletben tartsuk a személyes adatai védelméhez fűződő jogait.
 
-Az Adatkezelési irányelveink (“Irányelvek”), (az [Általános Szerződési Feltételekkel](http://www.indivizo.hu/altalanos-szerzodesi-feltetelek) együtt) meghatározza, hogy bármely személyes adatot, melyet begyűjtünk tőled, vagy melyet megadsz számunkra, miként kezelünk. Kérjük, hogy az alábbiakat figyelmesen olvasd el, hogy teljeskörű képet nyújthassunk számodra arról, hogy milyen adatkezelési irányelveket követünk és miként kezeljük személyes adataidat.
+Az Adatkezelési irányelveink (“Irányelvek”), (az [Általános Szerződési és Felhasználási Feltételekkel ](http://www.indivizo.hu/altalanos-szerzodesi-feltetelek) együtt) meghatározza, hogy bármely személyes adatot, melyet  begyűjtünk Öntől, vagy melyet megad számunkra, miként kezelünk, akár potenciális munkáltatóként (ügyfélként), akár jelentkezőként kerül velünk kapcsolatba. Kérjük, hogy az alábbiakat figyelmesen olvassa el, hogy teljeskörű képet nyújthassunk arról, milyen adatkezelési irányelveket követünk és miként kezeljük személyes adatait.
 
-A www.indivizo.com ill. www.indivizo.hu webcímen elérhető weboldal (“Weboldal”) és a https://app.indivizo.com webcímen elérhető alkalmazás (“Alkalmazás”, “Alkalmazásunk” ill. “Szolgáltatás”, “Szolgáltatásunk”) általunk üzemeletett weboldal ill. szolgáltatás, az elérhető információk és szolgáltatások ennek részeként azt a célt szolgálják, hogy az állásra jelentkezők (“Jelentkezők”) regisztrációs folyamat során feltöltsék saját adataikat az Indivizo adatbázisába, az álláskeresési folyamat részeként jelentkezési adatokat tölthessenek fel, videointerjún vegyenek részt, vagy kiválasztásban résztvevőként a kiválasztási folyamatot menedzseljék az Alkalmazás segítségével. Weboldalunkon regisztrációs célból kapcsolattartási információk, úgy mint név, email cím és telefonszám, ill. céges információk, úgy mint cégnév, székhely, adószám megadását kérjük, opcionálisan kiegészítve a cég iparágával, valamint alkalmazottainak számával. A kiválasztásokban preferált nyelv már az Alkalmazás működéséhez szükséges beállítás. A személyes és céges adatok kezelése a szolgáltatásnyújtás mellett közvetlen üzletszerzési illetve marketing célú megkeresésekhez is szükséges. A Jelentkezők és a kiválasztási folyamatot menedzselő cégek (“Ügyfeleink”, “Ügyfelünk” ill. “Potenciális munkáltatók”, “Potenciális munkáltató”) mellett kezeljük azon személyek adatait, akik szolgáltatásainkból demót igényelnek, illetve akik feliratkoznak hírlevelünkre.
+A www.indivizo.com ill. www.indivizo.hu webcímen elérhető weboldal (“Weboldal”) és a https://app.indivizo.com webcímen elérhető alkalmazás (“Alkalmazás”, “Alkalmazásunk” ill. “Szolgáltatás”, “Szolgáltatásunk”) általunk üzemeletett weboldal ill. szolgáltatás, az elérhető információk és szolgáltatások ennek részeként azt a célt szolgálják, hogy az állásra jelentkezők (“Jelentkezők”) regisztrációs folyamat során feltöltsék saját adataikat az Indivizo adatbázisába, az álláskeresési folyamat részeként jelentkezési adatokat tölthessenek fel, videointerjún vegyenek részt, vagy kiválasztásban résztvevőként a kiválasztási folyamatot menedzseljék az Alkalmazás segítségével. Weboldalunkon regisztrációs célból kapcsolattartási információk, úgy mint név, email cím és telefonszám, ill. céges információk, úgy mint cégnév, székhely, adószám megadását kérjük, opcionálisan kiegészítve a cég iparágával, valamint alkalmazottainak számával. A kiválasztásokban preferált nyelv már az Alkalmazás működéséhez szükséges beállítás. A személyes és céges adatok kezelése a szolgáltatásnyújtás mellett közvetlen üzletszerzési illetve marketing célú megkeresésekhez is szükséges. A Jelentkezők és a kiválasztási folyamatot menedzselő cégek (“Ügyfeleink”, “Ügyfelünk” , “Ügyfél”, “Ügyfelek” ill. “Potenciális munkáltatók”, “Potenciális munkáltató”) mellett kezeljük azon személyek adatait, akik szolgáltatásainkból demót igényelnek, illetve akik feliratkoznak hírlevelünkre. (A “Jelentkező(k)” és “Ügyfel(ek)” illetve “Potenciális munkáltató(k)” együttes említésük esetén a továbbiakban “Felhasználó(k)”)
 
-Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, (a továbbiakban: Infotv.) értelmében adatkezelőnek minősül: a) az a cég, amely a kiválasztási folyamatot menedzseli (Ügyfeleink) és mely a folyamat részeként Jelentkezők személyes adatait fogadja, b) az Indivizo regisztráció során feltöltött adatainak vonatkozásában (a regisztráció során kezelt adatok köre Ügyfeleink esetében: cégnév, kapcsolattartó személy neve, email címe, telefonszáma, cég székhelye, adószáma, valamint opcionálisan az iparága és alkalmazottainak száma; Jelentkezők esetében: név, email cím, profilfotó).
-Az Indivizo adatfeldolgozónak minősül minden olyan adat vonatkozásában, melyet a Ügyfeleink kérnek be, rögzítenek és tárolnak a Jelentkezőkkel kapcsolatban az Alkalmazásban a regisztráció során bekért adatokon (név, email cím és profilfotón) felül.
+Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény, (a továbbiakban: Infotv.) értelmében adatkezelőnek minősül: a) az a cég, amely a kiválasztási folyamatot menedzseli (Ügyfeleink) és mely a folyamat részeként Jelentkezők személyes adatait fogadja minden szolgáltatáscsomag esetén, b) az Indivizo az ingyenes csomag esetén minden adat vonatkozásában; c) prémium csomagok esetén az Indivizo a regisztráció során feltöltött adatok vonatkozásában (a regisztráció során kezelt adatok köre Ügyfeleink esetében: cégnév, kapcsolattartó személy neve, email címe, telefonszáma, cég székhelye, adószáma, valamint opcionálisan az iparága és alkalmazottainak száma; Jelentkezők esetében: név, email cím, profilfotó).
+
+Az Indivizo adatfeldolgozónak minősül minden olyan adat vonatkozásában, melyet a Ügyfeleink kérnek be, rögzítenek és tárolnak a Jelentkezőkkel kapcsolatban az Alkalmazásban a regisztráció során bekért adatokon (név, email cím és profilfotón) felül minden olyan szolgáltatás csomag esetén, amelynek használatáért az Ügyfél díjat fizet (prémium csomag).
+
+Adatfeldolgozónak minősülnek továbbá az Indivizo lent megjelölt alvállalkozói is.
 
 ## <a name="fogalmak"></a> Fogalmi meghatározások
+
 Érintett: bármely meghatározott, személyes adat alapján azonosított vagy – közvetlenül vagy közvetve – azonosítható természetes személy;
 
 Személyes adat: az Érintettel kapcsolatba hozható adat - különösen az érintett neve, azonosító jele, valamint egy vagy több fizikai, fiziológiai, mentális, gazdasági, kulturális vagy szociális azonosságára jellemző ismeret -, valamint az adatból levonható, az Érintettre vonatkozó következtetés;
@@ -68,81 +72,85 @@ A 14. életévét be nem töltött kiskorú és az egyébként cselekvőképtele
 
 Különleges adat akkor kezelhető, ha az adatkezeléshez az érintett írásban hozzájárul, vagy jogszabály ezt kötelezővé teszi. Kötelező adatkezelés esetén a kezelendő adatok fajtáit, az adatkezelés célját és feltételeit, az adatok megismerhetőségét, az adatkezelés időtartamát, valamint az adatkezelő személyét az adatkezelést elrendelő törvény, illetve önkormányzati rendelet határozza meg.
 
-Bármely Indivizo Szolgáltatás igénybevétele önkéntes alapon történik. Személyes adatok bekérése csak és kizárólag abban az esetben történik, amennyiben ezen Szolgáltatásokat igénybe kívánod venni. Amennyiben nem értesz egyet jelen Adatkezelési irányelvekben, vagy az Általános Szerződési Feltételekben foglaltakkal, kérjük, ne adj meg magadról személyes adatot és hagyd el az oldalt, szakítsd meg a Szolgáltatás igénybevételét.
+Bármely Indivizo Szolgáltatás igénybevétele önkéntes alapon történik. Személyes adatok bekérése csak és kizárólag abban az esetben történik, amennyiben ezen Szolgáltatásokat igénybe kívánja  venni. Amennyiben nem ért egyet jelen Adatkezelési irányelvekben,  az Általános Szerződési Feltételekben vagy a Felhasználási Feltételekben foglaltakkal, kérjük, ne adjon meg személyes adatot és hagyja el az oldalt, szakítsa meg a Szolgáltatás igénybevételét.
 
 Az Indivizo egyes Szolgáltatásai kizárólag regisztrációval vehetők igénybe, amely regisztráció során szükségszerűen, illetve fakultatív módon megadott személyes adatok felvételére és kezelésére kerül sor. Az eltérő Szolgáltatásokra tekintettel eltérhet a kezelt adatok köre.
 
-Az Indivizo szolgáltatásainak (Alkalmazás és Weboldal használata) igénybevételével, valamint a regisztrációval egyértelműen kijelented, hogy egyetértesz az Adatkezelési irányelveinkkel és a Felhasználási feltételeinkkel.
+Az Indivizo szolgáltatásainak (Alkalmazás és Weboldal használata) igénybevételével, valamint a regisztrációval egyértelműen kijelented, hogy egyetértesz az Adatkezelési irányelveinkkel  és a Felhasználási feltételeinkkel illetve az Általános Szerződési Feltételekkel.
 
 Az Indivizo elkötelezett Szolgáltatásai Felhasználóinak személyes adatai védelme iránt, ezért adatkezelési gyakorlatát az irányadó hatályos jogszabályokhoz igazítja a Felhasználók magánszférájának védelme és tiszteletben tartása mellett.
 
-## <a name="milyen-informaciok"></a> Milyen információkat gyűjthetünk tőled?
+## <a name="milyen-informaciok"></a> Milyen információkat gyűjthetünk?
 
-Mi adatkezelőként az alábbi információkat gyűjthetjük és dolgozhatjuk fel rólad:
+Mi adatkezelőként az alábbi információkat gyűjthetjük és dolgozhatjuk fel:
 
-* Információkat, melyeket a profilod létrehozása során Jelentkezőként adsz meg számunkra az Alkalmazásban: név, email cím, profilfotó.
-* Információkat, melyeket a regisztrációd során Ügyfelünkként adsz meg számunkra a Weboldalon: neved, email címed, telefonszámod, céged neve, székhelye, adószáma, ill. opcionálisan iparága, alkalmazottainak száma.
-* További információkat kérhetünk tőled annak érdekében, hogy az oldalunk használata során jelzett hibát javítani tudjuk. Az ezzel kapcsolatos emaileket a későbbi visszakereshetőség érdekében tárolhajtuk.
+* Információkat, melyeket a profil létrehozása során Jelentkezőként ad meg számunkra az Alkalmazásban: név, email cím, profilfotó.
+* Információkat, melyeket a regisztráció során Ügyfelünkként ad meg számunkra a Weboldalon: név, email cím, telefonszám, cégnév, székhelye, adószáma, iparága, alkalmazottainak száma.
+* További információkat kérhetünk annak érdekében, hogy az oldalunk használata során jelzett hibát javítani tudjuk. Az ezzel kapcsolatos emaileket a későbbi visszakereshetőség érdekében tárolhajtuk.
 * Az Alkalmazásunk használatával kapcsolatos információkat (beleértve de nem kizárólag a weboldallal kapcsolatos forgalmi adatokat, földrajzi adatokat, weblogokat és további kommunikációs adatokat), a látogatott oldalakat, általános szoftver adatokat.
 * Kutatási célokra készített kérdőívek során megadott adatokat kizárólag anoním módon, kutatási célokra gyűjtünk, természetesen ezek megadása, a kérdések megválaszolása teljesen önkéntes.
+* Ingyenes csomagok esetén a regisztráción felül a jelentkezési űrlap kitöltése során megadott adatok, csatolt file-ok, videointerjú kérdésekre adott válaszok - kivétel ez alól a shortlisten “befutóként” megjelölt jelentkezők adatai.
 
-Potenciális munkáltatód a jelentkezési folyamat részeként az alábbi információkat gyűjtheti be rólad a szolgáltatásunk igénybevétele során:
+Potenciális munkáltatója a jelentkezési folyamat részeként az alábbi információkat gyűjtheti be Önről a szolgáltatásunk igénybevétele során:
 
-* Információk, melyeket jelentkezési űrlap kitöltése során adsz meg, csatolt dokumentumokban teszel elérhetővé, emailben küldesz el számunkra, vagy a videointerjún való részvétellel osztasz meg számunkra (beleértve magát a videót is) az Alkalmazáson keresztül. A begyűjtött és feldolgozott információk között szenzitív személyes adatok is előfordulhatnak.
+* Információk, melyeket a Jelentkező a jelentkezési űrlap kitöltése során ad meg, csatolt dokumentumokban tesz elérhetővé, emailben küld el számunkra, vagy a videointerjún való részvétellel oszt meg számunkra (beleértve magát a videót is) az Alkalmazáson keresztül. A begyűjtött és feldolgozott információk között szenzitív személyes adatok is előfordulhatnak.
 
 A személyes adatok valódiságáért, pontosságáért kizárólag a Felhasználó tartozik felelősséggel.
 
-## <a name="cookie-k-es-local-storage"></a> Cookie-k és a böngésződ local storage-ének használata
+Cookie-k és a böngésződ local storage-ének használata
 
 Anélkül, hogy mélyebb technikai magyarázatba bocsátkoznánk, egyszerűen vázolnánk e két fogalom jelentését.
 
-A cookie (magyarul sütiként is emlegetik) egy információcsomag, melyet az általad meglátogatott weboldal szervere küld a böngésződnek, majd a böngésződ is visszaküldi a weboldalt kiszolgáló szervernek, amikor újra meglátogatod a weboldalt. A legtöbb weboldal például így tud arról, hogy be vagy jelentkezve. Bővebben a [Wikipedia szócikkét](https://hu.wikipedia.org/wiki/HTTP-süti) ajánljuk a témában.
+A cookie (magyarul sütiként is emlegetik) egy információcsomag, melyet a meglátogatott weboldal szervere küld a Felhasználó által használt böngészőnek, majd a böngésző is visszaküldi a weboldalt kiszolgáló szervernek, amikor a Felhasználó újra meglátogatja a weboldalt. A legtöbb weboldal például így tud arról, hogy a Felhasználó be van jelentkezve. Bővebben a Wikipedia szócikkét ajánljuk a témában.
 
-A local storage —bár a célja hasonló a cookie-k használatához—, egy modernebb eszköz arra, hogy egy weboldal a működéséhez szükséges információkat tároljon a böngésződben. A lényeges különbség az, hogy a local storage-ben tárolt adatokat a böngésződ nem küldi el a weboldal szerverének, de ahhoz a weboldal böngésződben futó alkalmazása hozzáfér. Bővebben a [Wikipedia szócikkét](https://en.wikipedia.org/wiki/Web_storage) ajánljuk a témában.
+A local storage - bár a célja hasonló a cookie-k használatához -, egy modernebb eszköz arra, hogy egy weboldal a működéséhez szükséges információkat tároljon a böngésződben. A lényeges különbség az, hogy a local storage-ben tárolt adatokat a böngésző nem küldi el a weboldal szerverének, de ahhoz a weboldal böngészőben futó alkalmazása hozzáfér. Bővebben a [Wikipedia szócikkét](https://en.wikipedia.org/wiki/Web_storage) ajánljuk a témában.
 
-A mi Weboldalunk és Alkalmazásunk adatfeldolgozó partnereken keresztül cookie-kat használ analitikai célokból, melyek segítségével a használati szokásokat elemezzük. Adatfeldolgozó partnereinkről bővebben [az Adatfeldolgozás című fejezetben](#adatfeldolgozas) olvashatsz.
+A mi Weboldalunk és Alkalmazásunk adatfeldolgozó partnereken keresztül cookie-kat használ analitikai célokból, melyek segítségével a használati szokásokat elemezzük. Adatfeldolgozó partnereinkről bővebb információ az [az Adatfeldolgozás című fejezetben](#adatfeldolgozas) című fejezetben található.
 
-Rendszerünk adminisztrációja és szolgáltatásaink fejlesztése érdekében információkat gyűjthetünk a számítógépeddel vagy eszközöddel kapcsolatosan, amennyiben azok elérhetők, az alábbi adatokat is beleértve: IP cím, operációs rendszered, böngésződ típusa, képernyőd felbontása, böngésződ látható mérete stb. Böngészőbeállításaid segítségével megtilthatod a cookie-k tárolását. Amennyiben így döntesz, elképzelhető, hogy Alkalmazásunk vagy Weboldalunk nem teljeskörűen lesz elérhető számodra.
+Rendszerünk adminisztrációja és szolgáltatásaink fejlesztése érdekében információkat gyűjthetünk a Felhasználó számítógépével  vagy eszközével kapcsolatosan, amennyiben azok elérhetők, az alábbi adatokat is beleértve: IP cím, operációs rendszer ill. böngésző típusa, képernyő felbontása, böngésző látható mérete stb. A böngészőbeállítások segítségével megtilthatja a cookie-k tárolását. Amennyiben így dönt, elképzelhető, hogy Alkalmazásunk vagy Weboldalunk nem teljeskörűen lesz elérhető.
 
-Alkalmazásunk a local storage technológiát használja az azonosításodra, valamint az Alkalmazás működésének gyorsítására. Például az Alkalmazáson belüli jogosultságaid, hozzád tartozó kiválasztások listája, neved, profilfotód, bizonyos beállításaid stb. a local storage-ben tárolódnak annak érdekében, hogy ezekhez az Alkalmazás minél gyorsabban hozzáférjen. Ezen információk (a nevedet és a profilfotódat leszámítva) nem tartalmaznak mások számára is feldolgozható adatokat, pl. nem derül ki a kiválasztások neve.
+Alkalmazásunk a local storage technológiát használja az azonosításra, valamint az Alkalmazás működésének gyorsítására. Például az Alkalmazáson belüli jogosultságai, a Felhasználóhoz tartozó kiválasztások listája, neve, profilfotója, bizonyos beállításai stb. a local storage-ben tárolódnak annak érdekében, hogy ezekhez az Alkalmazás minél gyorsabban hozzáférjen. Ezen információk (a nevét és a profilfotóját leszámítva) nem tartalmaznak mások számára is feldolgozható adatokat, pl. nem derül ki a kiválasztások neve.
 
-## <a name="adattarolas-helye"></a> Hol tároljuk személyes adataidat?
+Hol tároljuk személyes adatait?
 
-Az adatok, melyeket bekértünk tőled, beleértve szenzitív személyes adatokat is, külső célállomásokon kerülnek tárolásra, melyek kívül eshetnek lakhelyed szerinti állam határain. Minden szükséges lépést megteszünk annak érdekében, hogy biztosítsuk az általad megadott adatok biztonságos és irányelveink szerinti kezelését.
+Az adatok, melyeket bekértünk Öntől, beleértve szenzitív személyes adatokat is, külső célállomásokon kerülnek tárolásra, melyek kívül eshetnek a lakhelye szerinti állam határain. Minden szükséges lépést megteszünk annak érdekében, hogy biztosítsuk amegadott adatok biztonságos és irányelveink szerinti kezelését.
 
-Minden általad megadott információt biztonságos szervereken tárolunk. Amennyiben általunk (vagy általad választott) jelszó került megadásra - mely segítségével az Alkalmazás egy bizonyos részét érheted el - felelős vagy ezen jelszó biztonságos tárolásáért és kezeléséért. Kérjük, hogy jelszavadat senkivel ne oszd meg. A jelszavakat a legmodernebb titkosító algoritmusok egyikével titkosítjuk.
+Minden megadott információt biztonságos szervereken tárolunk. Amennyiben általunk (vagy Felhasználó által választott) jelszó került megadásra - mely segítségével az Alkalmazás egy bizonyos része érhető el - a Felhasználó felelős ezen jelszó biztonságos tárolásáért és kezeléséért. Kérjük, hogy jelszavát senkivel ne ossza meg. A jelszavakat a legmodernebb titkosító algoritmusok egyikével titkosítjuk.
 
 ## <a name="informaciok-felhasznalasa"></a> Az információk felhasználása
 
-A rólad tárolt információkat az alábbi célok érdekében használjuk fel:
+A tárolt információkat az alábbi célok érdekében használjuk fel:
 
-* Felhasználói fiókot tudjunk számodra létrehozni;
+* Felhasználói fiókot tudjunk a Felhasználó számára létrehozni;
 * Ügyfélszolgálati és technikai támogatást tudjunk biztosítani;
 * Elérhetővé tegyük Szolgáltatásunk különböző funkcióit;
 * Az Alkalmazásunk használatával kapcsolatos statisztikákat, elemzéseket készítsünk;
-* Tájékoztató, promóciós, ill. marketing anyagokat juttassunk el hozzád szolgáltatásainkkal kapcsolatban;
-* Tájékoztassunk a szolgáltatásunkkal kapcsolatos változásokról.
+* Tájékoztató, promóciós, ill. marketing anyagokat juttassunk el a Felhasználóhoz  szolgáltatásainkkal kapcsolatban;
+* Tájékoztassuk a Felhasználókat szolgáltatásunkkal kapcsolatos változásokról.
+* Ingyenes csomagot használó Ügyfeleink esetén álláshirdetésekkel kapcsolatos információkat juttassunk el a Jelöltekhez
 
 ## <a name="adatkezeles-idotartama"></a> Adatkezelés időtartama
 
-Az általad megadott személyes adatok kezelése a regisztrációval kezdődik és annak törléséig tart. Nem kötelező adatok esetén az adatkezelés az adat megadásának időpontjától a konkrét adat törléséig tart.
+A Felhasználó által megadott személyes adatok kezelése a regisztrációval kezdődik és annak törléséig tart. Nem kötelező adatok esetén az adatkezelés az adat megadásának időpontjától a konkrét adat törléséig tart.
 
-Potenciális munkáltatód az általa kezelt adatokra vonatkozóan egyedi adatkezelési időtartamot határozhat meg. Potenciális munkáltatód adatkezelésének időtartamára vonatkozóan, kérjük, olvasd el a jelentkezési folyamat elején található adatkezelési tájékoztatót, amely Potenciális munkáltatód egyedi irányelveit határozza meg.
+A Potenciális munkáltatók az általuk kezelt adatokra vonatkozóan egyedi adatkezelési időtartamot határozhatnak meg. A Potenciális munkáltató adatkezelésének időtartamára vonatkozóan, kérjük, olvassa el a jelentkezési folyamat elején található adatkezelési tájékoztatót, amely Potenciális munkáltató egyedi irányelveit határozza meg.
 
-## <a name="szemelyes-adataid-tovabbitasa"></a> Személyes adataid továbbítása
+Ügyfeleink céges adatait,melyeket a regisztráció során a regisztrációs adatlap kitöltésével adnak meg, a szerződéses jogviszony megszűnéséig (az ügyfél számára létrehozott account megszűnéséig) tároljuk. Ügyfeleink személyes adatait (név, email cím és profilfotó) szintén a velük kötött szerződés (és egyben az ügyfél account) megszűnéséig tároljuk.
 
- Az Alkalmazáshoz való hozzáférés részleteit az Általános Szerződési Feltétek rögzítik. Amennyiben Jelöltként jelentkezési űrlapot töltesz ki (a regisztrációt követően) valamint videointerjút rögzítesz Alkalmazásunk segítségével, feltöltött adataidat, csatolt dokumentumaidat és az elkészített videointerjúdat hozzáférhetővé tesszük Potenciális munkáltatód számára. Ezen adatok vonatkozásában Potenciális munkáltatód lesz az adatkezelő, mi pedig adatfeldolgozóként veszünk részt a folyamatban.
+Személyes adatok továbbítása
 
-A személyes adatok akkor továbbíthatók, ha ahhoz hozzájárulásodat adtad, vagy törvény azt megengedi. EGT-államba irányuló adattovábbítást a hatályos adatvédelmi jogszabályok alapján úgy kell tekinteni, mintha Magyarország területén belül történne az adattovábbítás.  Az Indivizo személyes adatot nem EGT-államba (harmadik országba) csak akkor továbbít, ha ehhez az érintett kifejezetten hozzájárult, vagy az adatkezelésnek az Infotv. 5-6. §-ában előírt feltételei teljesülnek, és a harmadik országban biztosított a személyes adatok megfelelő szintű védelme. Harmadik fél részére az alábbi esetekben továbbíthatjuk személyes adataidat:
+Az Alkalmazáshoz való hozzáférés részleteit az Általános Szerződési Feltétek és a Felhasználási Feltételek rögzítik. Amennyiben Jelöltként jelentkezési űrlapot tölt ki (a regisztrációt követően) valamint videointerjút rögzít Alkalmazásunk segítségével, feltöltött adatait, csatolt dokumentumait és az elkészített videointerjút hozzáférhetővé tesszük a Potenciális munkáltató számára.
 
-* Potenciális munkáltatód részére a regisztrációkor adott hozzájárulásod birtokában;
-* Amennyiben jogi kötelezettségünknek kell eleget tennünk hivatalos eljárás keretében, az Általános Szerződési Feltétekben foglaltaknak kell érvényt szereznünk, az Indivizo Ügyfelei vagy mások jogait, tulajdonát vagy biztonságát kell megvédenünk.
+A személyes adatok akkor továbbíthatók, ha ahhoz a Felhasználó hozzájárulását adta, vagy törvény azt megengedi. EGT-államba irányuló adattovábbítást a hatályos adatvédelmi jogszabályok alapján úgy kell tekinteni, mintha Magyarország területén belül történne az adattovábbítás. Az Indivizo személyes adatot nem EGT-államba (harmadik országba) csak akkor továbbít, ha ehhez az érintett kifejezetten hozzájárult, vagy az adatkezelésnek az Infotv. 5-6. §-ában előírt feltételei teljesülnek, és a harmadik országban biztosított a személyes adatok megfelelő szintű védelme. Harmadik fél részére az alábbi esetekben továbbíthatunk személyes adatot:
 
-## <a name="munkaltatod-potencialis-munkaltatod-adatkezelese"></a> Munkáltatód / Potenciális munkáltatód adatkezelése
+* Potenciális munkáltató részére a regisztrációkor adott jelölti hozzájárulás birtokában;
+* Amennyiben jogi kötelezettségünknek kell eleget tennünk hivatalos eljárás keretében, az Általános Szerződési Feltétekben vagy Felhasználási Feltételekben foglaltaknak kell érvényt szereznünk, az Indivizo Ügyfelei vagy mások jogait, tulajdonát vagy biztonságát kell megvédenünk.
 
-Szolgáltatóként mind munkáltatód (amennyiben egy kiválasztási folyamatban értékelőként veszel részt) mind Potenciális munkáltatód (amennyiben egy kiválasztási folyamatban Jelentkezőként veszel részt) számára biztosítunk szolgáltatást.
+Munkáltatók / Potenciális munkáltatók adatkezelése
 
-Felhívjuk figyelmedet, hogy munkáltatód vagy potenciális munkáltatód saját adatkezelési irányelvekkel rendelkezhet. Noha mi, az Indivizonál minden szükséges lépést megteszünk annak érdekében, hogy adataidat jelen Adatkezelési irányelveknek megfelelően kezejük és biztonságosan tároljuk, ugyanakkor nem tudunk felelősséget vállalni munkáltatód / Potenciális munkáltatód adatkezelési gyakorlatáért. Amennyiben kérdésed merül fel azzal kapcsolatban, hogy személyes adataidat, beleértve szenzitív személyes adataidat is, munkáltatód / potenciális munkáltatód miként kezeli, kérjük, lépj kapcsolatba munkáltatóddal / potenciális munkáltatóddal további eligazításért.
+Szolgáltatóként mind munkáltatója (amennyiben egy kiválasztási folyamatban értékelőként vesz részt) mind Potenciális munkáltatója (amennyiben egy kiválasztási folyamatban Jelentkezőként vesz részt) számára biztosítunk szolgáltatást.
+
+Felhívjuk figyelmét, hogy munkáltatója vagy potenciális munkáltatója saját adatkezelési irányelvekkel rendelkezhet. Noha mi, az Indivizonál minden szükséges lépést megteszünk annak érdekében, hogy adatait jelen Adatkezelési irányelveknek megfelelően kezeljük és biztonságosan tároljuk, ugyanakkor nem tudunk felelősséget vállalni munkáltatója / Potenciális munkáltatója adatkezelési gyakorlatáért. Amennyiben kérdése merül fel azzal kapcsolatban, hogy személyes adatait, beleértve szenzitív személyes adatait is, munkáltatója / potenciális munkáltatója miként kezeli, kérjük, lépjen kapcsolatba munkáltatójával  / potenciális munkáltatójával további eligazításért.
 
 ## <a name="adatfeldolgozas"></a> Adatfeldolgozás
 
@@ -154,36 +162,43 @@ Az Alkalmazás és Weboldal üzemeltetése során az alábbi szolgáltatásokat 
 * [Mixpanel](https://mixpanel.com) — analitika, felhasználói szokások elemzése, marketingautomatizáció;
 * [MailChimp](http://mailchimp.com) — hírlevélküldés;
 * [Zendesk](https://www.zendesk.com) — support.
+* Gravitalent  - online kompetencia mérés játékokkal (opcionális)
 
-## <a name="hozzaferes-szemelyes-adataidhoz"></a> Hozzáférés személyes adataidhoz
+## <a name="hozzaferes-szemelyes-adataidhoz"></a> Hozzáférés személyes adataihoz
 
-Az Infotv.-ben meghatározott módon lehetőséged van személyes adataidhoz való hozzáférésre vagy azok törlésének kezdeményezésére. További információért, kérjük fordulj munkáltatódhoz / Potenciális munkáltatódhoz, vagy írj nekünk az adatkezeles@indivizo.com címre.
+Az Infotv.-ben meghatározott módon lehetősége van személyes adataihoz való hozzáférésre vagy azok törlésének kezdeményezésére. További információért, kérjük forduljon munkáltatójához / Potenciális munkáltatójához, vagy írjon nekünk az adatkezeles@indivizo.com címre.
 
 ## <a name="jogorvoslati-lehetosegek"></a> Jogorvoslati lehetőségek
 
-Az <adatkezeles@indivizo.com> email címen a következőket kérelmezheted:
+Az <adatkezeles@indivizo.com> email címen a következőket kérelmezheti:
 
-* tájékoztatást személyes adataid kezeléséről,
-* személyes adataid helyesbítését, valamint
-* személyes adataid —a kötelező adatkezelés kivételével— törlését vagy zárolását.
+* tájékoztatást személyes adatai kezeléséről,
+* személyes adatai helyesbítését, valamint
+* személyes adatai - a kötelező adatkezelés kivételével - törlését vagy zárolását.
 
-A kérelem benyújtásától számított legrövidebb idő alatt, de legfeljebb azonban 30 napon belül kérelmedre írásban küldünk tájékoztatást.
+A kérelem benyújtásától számított legrövidebb idő alatt, de legfeljebb azonban 30 napon belül kérelmére írásban küldünk tájékoztatást.
 
-Bármely érintett a személyes adatainak kezelésével kapcsolatos vélt jogsérelem esetén az illetékes törvényszékhez, a fővárosban a Fővárosi Törvényszékhez is fordulhat, vagy vizsgálatot kezdeményezhet a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (1024 Budapest, Szilágyi Erzsébet fasor 22/C., <ugyfelszolgalat@naih.hu>, +36-1-3911400, [www.naih.hu](http://www.naih.hu)).
+Bármely érintett a személyes adatainak kezelésével kapcsolatos vélt jogsérelem esetén az illetékes törvényszékhez, a fővárosban a Fővárosi Törvényszékhez is fordulhat, vagy vizsgálatot kezdeményezhet a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (1024 Budapest, Szilágyi Erzsébet fasor 22/C., <ugyfelszolgalat@naih.hu>, +36-1-3911400, [www.naih.hu)](http://www.naih.hu)).
 
 Az Indivizo Kft. adatkezelés nyilvántartási száma: NAIH-77318/2014.; NAIH-77358/2014.; NAIH-77359/2014.; NAIH-77360/2014.
 
 ## <a name="valtozasok-kezelese"></a> Az Adatvédelmi irányelvek változásainak kezelése
 
-Az Indivizo jogosult Adatkezelési Irányelveinek egyoldalú módosítására. Adatvédelmi irányelveink aktuális változata ezen a Weboldalon lesz elérhető. Amennyiben regisztrált felhasználónk vagy, emailben is értesítést küldünk a változásokról.
+Az Indivizo jogosult Adatkezelési Irányelveinek egyoldalú módosítására. Adatvédelmi irányelveink aktuális változata ezen a Weboldalon lesz elérhető. Amennyiben Ön regisztrált Felhasználónk, emailben is értesítést küldünk a változásokról.
 
 ## <a name="kapcsolat"></a> Kapcsolat
 
-Adatvédelmi irányelveinkkel kapcsolatos kérdéseidet kérjük, az <adatkezeles@indivizo.com> címre küldd el számunkra.
+Adatvédelmi irányelveinkkel kapcsolatos kérdéseit kérjük, az adatkezeles@indivizo.com címre küldje el számunkra.
 
-Adataiddal, vagy Adatkezelési irányelveinkkel kapcsolatos kérdések, panaszok esetén az alábbi elérhetőségeinken tudsz velünk kapcsolatba lépni:
+Adataival, vagy Adatkezelési irányelveinkkel kapcsolatos kérdések, panaszok esetén az alábbi elérhetőségeinken tud velünk kapcsolatba lépni:
 
 Indivizo Kft.
+
 1123 Budapest, Alkotás utca 17-19.
+
 Telefon: +36 1 700 8454
+
 Email: <adatkezeles@indivizo.com>
+
+
+
