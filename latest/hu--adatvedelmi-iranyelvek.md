@@ -97,7 +97,7 @@ Potenciális munkáltatója a jelentkezési folyamat részeként az alábbi info
 
 A személyes adatok valódiságáért, pontosságáért kizárólag a Felhasználó tartozik felelősséggel.
 
-Cookie-k és a böngésződ local storage-ének használata
+## <a name="cookie-k-es-local-storage"></a> Cookie-k és a böngésződ local storage-ének használata
 
 Anélkül, hogy mélyebb technikai magyarázatba bocsátkoznánk, egyszerűen vázolnánk e két fogalom jelentését.
 

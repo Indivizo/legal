@@ -103,7 +103,7 @@ The control of the personal data provided by you starts with the registration an
 
 The control of company data of our Clients (provided by the Client when filling in the registration form) starts with the conclusion of the contract and lasts until the contract is valid between us and the Client (until the account of the Client is deleted). The personal data provided by our Clients (name, email address, photo) is stored until the account of the Client is deleted with the termination of the contract.
 
-Transfer of your personal data
+## <a name="transfer-of-personal-data"></a> Transfer of your personal data
 
 The details of access to the Application are contained in the General Terms and Conditions and Terms of Use.  If you as an Applicant fill in an application form (following registration) or record a video interview with the use of our Application, we make all the uploaded data and the attached documents together with the recorded video interview available to your Potential Employer.
 
