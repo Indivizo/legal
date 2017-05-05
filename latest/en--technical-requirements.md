@@ -60,10 +60,12 @@ Analytics, statistics and data for support requests are tracked here.
 #### Windows 7, 8, 10
 
 * Google Chrome, two latest versions.
+* Mozilla Firefox, two latest versions;
 
 #### Mac OS X 10.9+
 
 * Google Chrome, two latest versions.
+* Mozilla Firefox, two latest versions;
 
 Recording video interviews on mobile devices, tablets are not supported. It is on our development roadmap to introduce support for them.
 
