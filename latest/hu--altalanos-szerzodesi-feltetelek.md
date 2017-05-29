@@ -1,6 +1,6 @@
 # Általános Szerződési Feltételek
 
-Hatályos 2017. március 7-től.
+Hatályos 2017. május 29-től.
 
 - [1. Bevezető, általános rendelkezések](#bevezeto)
 - [2. A szolgáltatás bemutatása](#szolgaltatas-bemutatasa)
@@ -45,14 +45,14 @@ Az Alkalmazás segítségével Megrendelő kiválasztási, keresési folyamatoka
 
 Megrendelőnek a Szolgáltatás révén lehetősége van:
 
-* Egyedi kiválasztási folyamatok kialakítására,
+* Egyedi kiválasztási folyamatok kialakítására;
 * Előre rögzített interjútervek létrehozására a beépített kompetencia alapú kérdésbank vagy egyedi kérdések alkalmazásával;
-* Online jelentkezések fogadására Jelentkezőktől a kiválasztáshoz szolgáltatott jelentkezési űrlap segítségével vagy direkt videointerjú meghívás formájában,
+* Online jelentkezések fogadására Jelentkezőktől a kiválasztáshoz szolgáltatott jelentkezési űrlap segítségével vagy direkt videointerjú meghívás formájában;
 * Jelentkezők adatlapjának, azon esetlegesen csatolt önéletrajzainak, egyéb dokumentumjainak megtekintésére;
-* Különböző előszűrési lépcsők alkalmazásával (online form, videointerjú, serious games, továbbá egyedi kiválasztási lépcsők) hozzáadásával a jelentkezők szűrésére
-* Csapatmunkában jelentkezők értékelésére, szavazásra; kommentek elhelyezésére, “jelölők” használatára,
+* Különböző előszűrési lépcsők alkalmazásával (online form, videointerjú, serious games, továbbá egyedi kiválasztási lépcsők) hozzáadásával a jelentkezők szűrésére;
+* Csapatmunkában jelentkezők értékelésére, szavazásra; kommentek elhelyezésére, “jelölők” használatára;
 * Aszinkron videointerjúk megtekintésére és értékelésére;
-* Serious games alapú kompetencia profil eredményeinek megtekintésére és értékelésére,
+* Serious games alapú kompetencia profil eredményeinek megtekintésére és értékelésére;
 * Egyedi kiválasztási lépcsők esetén az adott lépcsőben a jelöltek információinak rögzítésére,
 * Jelöltek tájékoztatására (részben) automatizált kommunikáció segítségével;
 * Shortlist létrehozására Jelöltekből;
@@ -60,7 +60,7 @@ Megrendelőnek a Szolgáltatás révén lehetősége van:
 * Saját korábbi jelentkezők adatainak elérésére,
 * User profilok szerkesztésére,
 * Kiválasztási csapatok összeállítására,
-* Jogosultságok kezelésére,
+* Jogosultságok kezelésére.
 
 A Szolgáltatás - a megrendelt csomagtól függően - eltérő funkcionalitással és volumen korláttal rendelkezhet az egyes funkciók elérésére vonatkozóan. Az csomagok, valamint azokba foglalt szolgáltatások, azok árazása elérhető a Szolgáltató honlapján: [www.indivizo.hu/arak](http://www.indivizo.hu/arak).
 
@@ -70,16 +70,13 @@ A Szolgáltatás - a megrendelt csomagtól függően - eltérő funkcionalitáss
 
 Szolgáltató üzemeltetést biztosít (továbbiakban: Üzemeltetési Szolgáltatás) annak érdekében, hogy a Megrendelő munkatársai, felhasználói illetve a Jelentkezők segítséget kaphassanak a Szolgáltatás során felmerülő problémáik megoldásához, ill. felmerülő kérdéseik megválaszolásában.
 
-A Szolgáltató képviselői munkanapokon 9 és 17 óra között (továbbiakban Ügyeleti idő)
-
-* a support@indivizo.com email címre küldött emailben,
-* ill. az alkalmazás különböző részeibe beépített, segítségkérésre használatos űrlap kitöltésével és beküldésével érhetőek el.
+A Szolgáltató képviselői a hét minden napján 0-24 óráig elérhetőek a support@indivizo.com email címre küldött emailben és telefonon is.
 
 **2.4.** A Szolgáltató az Üzemeltetési Szolgáltatás részeként emailben történő segítségnyújtást, supportot biztosít a Megrendelő munkatársai, felhasználói ill. a Jelentkezők részére. A Szolgáltató munkatársai a jelen ÁSZF 2.3-as pontjában leírtaknak megfelelően érkezett megkeresés alapján segítséget nyújtanak és tanácsot adnak a felhasználóknak, a jelentkezőknek illetve a Megrendelő érdekében eljáró képviselőjének illetve megbízottjának a Szolgáltatással kapcsolatban felmerülő problémák, kérdések diagnosztizálásában és megoldásában.
 
 **2.5.** Hibajavítás: Szolgáltató az Üzemeltetési Szolgáltatás részeként hibajavítási szolgáltatást nyújt a Szolgáltatás a lentiekben meghatározott minőségi célértékek figyelembevételével.
 
-**2.5.1.** Szolgáltató az Ügyeleti időben és Ügyeleti időn kívül is a jelen ÁSZF 2.3-as pontjában leírtaknak megfelelően vállalja a Megrendelőtől a Szolgáltatás üzemeltetésével kapcsolatos hibabejelentések fogadását. A Megrendelő által történő megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de Ügyeleti időben legfeljebb egy munkanapon belül köteles a hiba javítását megkezdeni.
+**2.5.1.** Szolgáltató a jelen ÁSZF 2.3-as pontjában leírtaknak megfelelően a hét minden napján 0-24 órában vállalja a Megrendelőtől a Szolgáltatás üzemeltetésével kapcsolatos hibabejelentések fogadását. A Megrendelő által történő megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de legfeljebb egy munkanapon belül köteles a hiba javítását megkezdeni.
 
 A hiba bejelentésekor a Megrendelőnek legalább az alábbi információkat kell a Szolgáltató rendelkezésére bocsátania:
 
@@ -112,17 +109,17 @@ A szolgáltatás nyújtása közben keletkező, vagy tudomására jutó informá
 A jelen szerződés keretében vállalt Üzemeltetési Szolgáltatás és a szavatosság nem terjed ki
 
 * a Szolgáltatáshoz kapcsolódó Megrendelői oldali operációs rendszer környezet és egyéb szoftverek karbantartására illetve hibaelhárítására, a Megrendelő illetve harmadik fél által szállított vagy megvalósított szoftverre, interfészekre, hardver elemekre, hálózati környezetre,
-* a Megrendelői oldalon történt illetéktelen beavatkozásból, lopásból, külső erőszakos rongálásból, a berendezések nem rendeltetésszerű használatából adódó szoftveres károk, adatbázis sérülések helyreállítására,
+* a Megrendelői oldalon történt illetéktelen beavatkozásból, lopásból, külső erőszakos rongálásból, a berendezések nem rendeltetésszerű használatából adódó szoftveres károk, adatbázis sérülések helyreállítására;
 * a Szolgáltatás felhasználóinak szakszerűtlen szoftverhasználatából eredő hibákra,
-* a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák javítására,
+* a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett hibák javítására;
 * a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlenségére,
-* az internetszolgáltató hibájából történő elérhetetlenségéből, ill. lassú működéséből adódó hibák javítására,
-* a Megrendelő hibájából, a Szolgáltatónak nem felróható módon bekövetkező vírus okozta hibák javítására,
+* az internetszolgáltató hibájából történő elérhetetlenségéből, ill. lassú működéséből adódó hibák javítására;
+* a Megrendelő hibájából, a Szolgáltatónak nem felróható módon bekövetkező vírus okozta hibák javítására;
 * az elemi csapásokból származó károk helyreállítására.
 
 **2.10.** A Szolgáltató által biztosított szavatosság érvényét veszti, ha:
 
-* a hiba a Megrendelő illetve harmadik fél javítási, módosítási, szándékos károkozási kísérletének az eredménye,
+* a hiba a Megrendelő illetve harmadik fél javítási, módosítási, szándékos károkozási kísérletének az eredménye;
 * a hiba nem a Szolgáltató által supportált, beállított Szolgáltatás meghibásodásából ered.
 
 **2.11.** A Szolgáltatás működéséhez szükséges technikai követelmények
@@ -137,22 +134,22 @@ A Szolgáltatás működése során kezelt adatokra vonatkozó adatvédelmi irá
 
 **3.1.** A kapcsolatfelvétel és a Megrendelő igényeinek bejelentése történhet
 
-* az info@indivizo.com címre megküldött email útján,
+* az <info@indivizo.com> címre megküldött email útján;
 * ill. a Weboldalon közzétett űrlap kitöltésével.
 
 **3.1.1** Email útján történő igénybejelentés
 
 A Megrendelő a Szolgáltatások igénybevételére vonatkozó igényeit email útján is eljuttathatja a Szolgáltatóhoz az info@indivizo.com, vagy egyéb, a Weboldalon közzétett emailcímre történő megküldéssel (a továbbiakban a Megrendelő Szolgáltatással kapcsolatos email üzeneteinek a küldése esetén, ezen email címekre történő küldés értendő). Az email üzenetben a Megrendelő megfogalmazza a szolgáltatás igénybevételére vonatkozó igényeit és az igényelt szolgáltatáscsomagot. Az emailnek tartalmaznia kell a megrendeléshez szükséges adatokat, így legalább az alábbiakat:
 
-* a Megrendelő elnevezése, székhelye, adószáma, bankszámlaszáma, számlázási címe, képviseletre jogosult személy neve, kapcsolattartó személy neve és elérhetősége,
-* a megrendelni kívánt szolgáltatáscsomag megjelölése
+* a Megrendelő elnevezése, székhelye, adószáma, bankszámlaszáma, számlázási címe, képviseletre jogosult személy neve, kapcsolattartó személy neve és elérhetősége;
+* a megrendelni kívánt szolgáltatáscsomag megjelölése;
 * azon személy (a továbbiakban: Admin account) nevének és emailcímének megjelölése, aki a Megrendelő nevében, a Megrendelő további felhasználói részére hozzáférést állíthat be az Alkalmazáson keresztül.
 
 **3.1.2** Weboldalon űrlap kitöltésével történő igénybejelentés
 
 A Megrendelő a Szolgáltatások igénybevételére vonatkozó igényeit a Weboldalon közzétett űrlap kitöltésével is eljuttathatja Szolgáltató részére. Ez esetben az online űrlap kitöltését és kötelező adatok (Megrendelő elnevezése, székhelye, adószáma, kapcsolattartó személy neve és elérhetősége, cégméretre vonatkozó adatok) megadását követően jön létre a Megrendelő hozzáférése. Az online felületen történő megrendelés az online felületen a visszaigazoló ablak, valamint a visszaigazoló email információ alapján hatályosul.
 
-A Free csomagból a fizetős csomagokra történő upgrade esetén a bankkártya adatok megadását követően módosul Megrendelő hozzáférése. A csomagváltás az online felületen a visszaigazoló ablak, valamint a visszaigazoló email információ alapján hatályosul.
+A Free csomagból a fizetős csomagokra történő upgrade esetén az online felületen a bankkártya adatok megadását követően vagy email útján történő szerződésmódosítást követően módosul Megrendelő hozzáférése. A csomagváltás az online felületen a visszaigazoló ablak, valamint a visszaigazoló email információ vagy a szerződésmódosítás alapján hatályosul.
 
 **3.2.1** A Megrendelő szavatolja, hogy minden esetben kizárólag a valóságnak megfelelő, illetve hiteles adatokat ad meg a megrendeléssel, illetve a szerződéssel összefüggésben. A Megrendelő a megrendelési folyamat során, így különösen az általa történő jóváhagyások megtétele előtt, köteles az adatainak és a megrendelése tartalmának ellenőrzésére.
 
@@ -186,12 +183,12 @@ Megrendelő a létrehozott admin jogosultsággal rendelkező felhasználók köz
 
 Csomagváltás történhet
 
-* Megrendelő e-mailben történő igénybejelentése,
+* Megrendelő e-mailben történő igénybejelentése;
 * online módon, az Alkalmazásban történő automatikus csomagváltás révén.
 
 **5.2.1.** Csomagváltás emailben történő igénybejelentése
 
-Megrendelő a jelen ÁSZF 2.3. pontjában meghatározott Ügyeleti időben és Ügyeleti időn kívül is emailben jelezheti Szolgáltató felé szolgáltatási csomag váltási igényét. A Megrendelő által emailen küldött megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de Ügyeleti időben legfeljebb 1 munkanapon belül köteles reagálni. Az igények feldolgozását követően Szolgáltató emailben igazolja vissza Megrendelő felé a csomagváltás tényét, és aktiválja az új csomagot.
+Megrendelő a jelen ÁSZF 2.3. pontjában meghatározottak szerint emailben jelezheti Szolgáltató felé szolgáltatási csomag váltási igényét. A Megrendelő által emailen küldött megkeresésekre a Szolgáltató lehetőség szerint haladéktalanul, de legfeljebb 1 munkanapon belül köteles reagálni. Az igények feldolgozását követően Szolgáltató emailben igazolja vissza Megrendelő felé a csomagváltás tényét, és aktiválja az új csomagot.
 
 **5.2.2.** Csomagváltás online módon
 
@@ -217,16 +214,16 @@ Az éves átlagos rendelkezésre állás 99,9%. (A rendelkezésre állás az az 
 
 Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepnapok, az előre betervezett és bejelentett karbantartások, valamint
 
-* a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett kimaradások,
+* a jelen ÁSZF 2.11. pontjában rögzített linken elérhető Technikai Követelményekben foglaltak elmaradása miatt bekövetkezett kimaradások;
 * az internetszolgáltató hibájából történő elérhetetlenség,
-* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlensége,
+* a Megrendelőnél használatban lévő tűzfalak vagy egyéb internetes kommunikációt blokkoló megoldásokból fakadó kimaradások, és ebből fakadóan a szolgáltatás elérhetetlensége;
 * olyan hibákból adódó elérhetetlenség, amelyek Szolgáltató véleménye szerint nem hozhatók összefüggésbe a Szolgáltatással, vagy amelyek egyértelműen harmadik fél szoftverével vagy hardverével hozhatók összefüggésbe.
 
 **6.4.** A Szolgáltatási Díj a Szolgáltatónak az ÁSZF-ben meghatározott feladatok ellátásával kapcsolatban felmerült minden költségét, kiadását magában foglalja, további követelés a feladatok ellátásával összefüggésben nem érvényesíthető.
 
 ## <a name="fizetesi-feltetelek"></a> 7. Fizetési feltételek
 
-**7.1.** A Szolgáltató az igénybe vett szolgáltatásokról a mindenkori szolgáltatási csomagárak alapján utólag a Megrendelés visszaigazolásától induló 30 napos szolgáltatási ciklusonként állít ki számlát. A számla kiállítására az adott 30 napos szolgáltatási ciklus utolsó napjától számított 10 napon belül kerül sor elektronikus számla formájában. A számlák fizetési határideje a kiállítástól számított 10 naptári nap. A szolgáltatási csomagárak változásáról a Szolgáltató azok hatályba lépése előtt 30 nappal tájékoztatja a Megrendelőket.
+**7.1.** A Szolgáltató az igénybe vett szolgáltatásokról a mindenkori szolgáltatási csomagárak alapján 30 napos szolgáltatási ciklusonként állít ki számlát. Az első számla kiállítására a Szolgáltatás megkezdésével egyidejűleg, legkésőbb 10 napon belül kerül sor elektronikus számla formájában. A számlák fizetési határideje a kiállítástól számított 8 naptári nap. A szolgáltatási csomagárak változásáról a Szolgáltató azok hatályba lépése előtt 30 nappal tájékoztatja a Megrendelőket.
 
 **7.2.** A fizetés teljesítésének időpontja a számla ellenértékének jóváírása a számlán megadott bankszámlaszámon. Bármely számlával kapcsolatos kifogás csak a vitatott tételt érinti, a többi tétel, valamint a számla esedékességén nem változtat. A kizárólag számlával kapcsolatos kérdéseket, kifogásokat, annak kézhezvételétől számított 8 naptári napon belül írásban kell közölni.
 
@@ -248,16 +245,16 @@ Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepn
 
 **8.6.** A Szolgáltató vállalja, hogy az általa biztosított Alkalmazást megfelelő jogosultsági rendszerrel látja el. Jogosultság kezelés terén a Szolgáltató köteles:
 
-* biztosítani, hogy az egyes felhasználói fiókok használatakor a Szolgáltatást igénybevevő egyes jogi személyek csakis és kizárólag a saját adataikhoz férjenek hozzá,
-* biztosítani, hogy a felhasználók egyedi azonosítókon keresztül férjenek hozzá az Alkalmazáshoz,
-* biztosítani a jelszavak felhasználó általi változtatásának lehetőségét,
+* biztosítani, hogy az egyes felhasználói fiókok használatakor a Szolgáltatást igénybevevő egyes jogi személyek csakis és kizárólag a saját adataikhoz férjenek hozzá;
+* biztosítani, hogy a felhasználók egyedi azonosítókon keresztül férjenek hozzá az Alkalmazáshoz;
+* biztosítani a jelszavak felhasználó általi változtatásának lehetőségét;
 * biztosítani, hogy az alkalmazások a jelszavakat csak titkosítva tárolják.
 
 **8.7.** A Szolgáltatáshoz kapcsolódó információbiztonság megvalósításához a Szolgáltató vállalja:
 
-* megfelelő adatbiztonsági rendszer kialakítását és annak folyamatos, szabályozások szerinti működésének biztosítását az Adatkezelési irányelvekben leírtak szerint,
-* a személyzet megfelelő kiválasztását, a hozzáférések megfelelő elkülönítését és korlátozását,
-* a használt eszközök biztonsági szempontú megfelelőségének biztosítását,
+* megfelelő adatbiztonsági rendszer kialakítását és annak folyamatos, szabályozások szerinti működésének biztosítását az Adatkezelési irányelvekben leírtak szerint;
+* a személyzet megfelelő kiválasztását, a hozzáférések megfelelő elkülönítését és korlátozását;
+* a használt eszközök biztonsági szempontú megfelelőségének biztosítását;
 * a biztonsági incidensek kivizsgálását, a tapasztalatoknak megfelelően a szabályozások szükség szerinti módosítását.
 
 **8.8.** A Felek rögzítik, hogy a Szolgáltató az általa jelen Általános Szerződési Feltételek értelmében teljesítendő feladatok ellátása során tevékenységét az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény rendelkezéseivel összhangban végzi.
@@ -278,14 +275,14 @@ Szolgáltató jogosult – nem rendeltetésszerű használat (beleértve a jelen
 
 A Szolgáltató a Megrendelő egyidejű értesítésével a következő esetekben jogosult a Szolgáltatás korlátozására:
 
-* a Megrendelő akadályozza vagy veszélyezteti a Szolgáltatás rendeltetésszerű működését,
-* a Szolgáltatást igénybe vevő Megrendelő a Szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti,
-* a Megrendelőnek a díjtartozásról szóló felszólításban megjelölt - de legalább 20 napos - határidő elteltét követően is esedékes díjtartozása van,
+* a Megrendelő akadályozza vagy veszélyezteti a Szolgáltatás rendeltetésszerű működését;
+* a Szolgáltatást igénybe vevő Megrendelő a Szolgáltatást a szolgáltató hozzájárulása nélkül harmadik személy részére továbbértékesíti;
+* a Megrendelőnek a díjtartozásról szóló felszólításban megjelölt - de legalább 20 napos - határidő elteltét követően is esedékes díjtartozása van;
 * a Szolgáltató rendelkezésére álló adatok, információk alapján valószínűsíthető, hogy a Megrendelő a szerződés megkötése vagy Szolgáltatás igénybevétele céljából a Szolgáltatót lényeges körülmény, így különösen a céges vagy személyes adatok vonatkozásában megtévesztette.
 
 Szolgáltató a Szolgáltatás korlátozásának idejére a Szolgáltatási Díjra jogosult.
 
-Ha a korlátozásra okot adó körülmények megszűnnek, Szolgáltató haladéktalanul, de legkésőbb 2 munkanapon, Ügyeleti időn belül köteles a Szolgáltatás korlátozását feloldani.
+Ha a korlátozásra okot adó körülmények megszűnnek, Szolgáltató haladéktalanul, de legkésőbb 2 munkanapon belül köteles a Szolgáltatás korlátozását feloldani.
 
 ## <a name="megrendelo-jogai-kotelezettsegei"></a> 9. Megrendelő jogai és kötelezettségei
 
@@ -293,8 +290,8 @@ Ha a korlátozásra okot adó körülmények megszűnnek, Szolgáltató haladék
 
 **9.2.** Az információbiztonság elérése érdekében a Megrendelő köteles:
 
-* biztosítani a hozzáféréshez kapott azonosítók, jelszavak, eljárások megfelelő kezelését,
-* a Szolgáltató felé a biztonsági incidenseket az elérhető legrövidebb időn belül jelezni,
+* biztosítani a hozzáféréshez kapott azonosítók, jelszavak, eljárások megfelelő kezelését;
+* a Szolgáltató felé a biztonsági incidenseket az elérhető legrövidebb időn belül jelezni;
 * a Szolgáltatóval együttműködni a biztonsági incidensek nyomozása során.
 
 **9.3.** A Szolgáltatás során személyes adatok rögzítésére csak akkor kerülhet sor, ha az érintett személyek személyes adataiknak a Megrendelő és a Szolgáltató általi kezeléséhez hozzájárultak. Megrendelő csak olyan listára küldhet tömeges emailt (pl.: videointerjú felkérésre vonatkozó linket), amely lista tagjai kifejezetten Megrendelőnek és kifejezetten az adott tartalom küldésére adtak hozzájárulást. A Megrendelő által kiküldött meghívók esetén Megrendelő szavatolja, hogy az általa kezelt jelöltadatok (név, email cím, egyéb) jogszerűen kerültek a Megrendelő birtokába és azokat jogszerűen, a Jelöltek hozzájáruló nyilatkozatának birtokában kezeli, továbbá Megrendelő felelőssége és feladata a Jelöltek tájékoztatása arról, hogy a Szolgáltató adatfeldolgozói minőségben van jelen a folyamatban.
@@ -349,9 +346,9 @@ A Szolgáltató a vis maior miatti vagy az azzal összefüggésben keletkezett k
 
 Szolgáltató az együttműködés során szavatosságot vállal azért, hogy az általa végzett tevékenységet szakszerűen és gondosan látja el. A Megrendelő tudomásul veszi és elfogadja, hogy:
 
-* a Szolgáltatás nem lehet minden hibától mentes,
-* a Megrendelőnek és a Jelentkezőknek a Szolgáltatás rendeltetésszerű használatához bizonyos felhasználói ismeretekre van szüksége,
-* Szolgáltató nem köteles garantálni a Szolgáltatás újabb verzióinak kompatibilitását a korábbi verziókkal,
+* a Szolgáltatás nem lehet minden hibától mentes;
+* a Megrendelőnek és a Jelentkezőknek a Szolgáltatás rendeltetésszerű használatához bizonyos felhasználói ismeretekre van szüksége;
+* Szolgáltató nem köteles garantálni a Szolgáltatás újabb verzióinak kompatibilitását a korábbi verziókkal;
 * Szolgáltatónak jogában áll az Alkalmazás funkciókörében és működésében változtatásokat végrehajtani az adott szoftververzión belül is.
 
 Szolgáltató a fent leírt körülmények bármelyikéből eredő közvetlen, közvetett illetve következményi károkért nem tartozik felelősséggel. Szolgáltató a Megrendelőnél előforduló adatvesztésből, adatsérülésből eredő, továbbá közvetett következményi károkra és elmaradt haszonra vonatkozó kárigényért nem felel. Ebből eredően Szolgáltatóval szemben kártérítési igény nem érvényesíthető. Az adat visszaállítására vonatkozó felelősséget Szolgáltató csak a neki felróható súlyos gondatlanságból eredő károkozásért vállal.
@@ -380,9 +377,9 @@ A Felek között létrejött szerződés módosításának minősül a Megrendel
 
 **12.4.** A szerződés megszűnhet:
 
-* a felek általi közös megegyezéssel,
-* Szolgáltató illetve a Megrendelő jogutód nélkül történő megszűnésével,
-* valamely fél általi rendes felmondással,
+* a felek általi közös megegyezéssel;
+* Szolgáltató illetve a Megrendelő jogutód nélkül történő megszűnésével;
+* valamely fél általi rendes felmondással;
 * valamely fél által kezdeményezett rendkívüli felmondással (azonnali hatállyal).
 
 **12.5.** Rendes felmondás
@@ -395,9 +392,9 @@ A jelen szerződést bármelyik Fél a másik Félhez intézett, indokolással e
 
 Szolgáltató jogosult továbbá rendkívüli felmondást érvényesíteni és a Megrendelő hozzáférését azonnali hatállyal felszólítás nélkül korlátozni, felfüggeszteni vagy törölni, ha:
 
-* a Megrendelő gazdasági viszonyaiban, illetve jogi státuszában olyan jelentős visszaesés, illetve változás következett be vagy annak bekövetkezése fenyeget, amely a jelen szerződés teljesítését veszélyezteti, így különösen amennyiben a Megrendelő csőd-, felszámolási vagy végelszámolási eljárás hatálya alá kerül,
-* Megrendelő ellen büntetőeljárás indul, vagy a Megrendelkő alkalmazottjával, ill. alvállalkozói jogviszonyban álló személyekkel vagy vállalatokkal kapcsolatban bűncselekmény alapos gyanúja merül fel és az ennek kivizsgálása érdekében lefolytatandó eljárások folyamatban vannak,
-* Megrendelő hamis adatokat szolgáltat, adatszolgáltatási kötelezettségét megszegi, rosszhiszeműen jár el, illetve bármely magatartásával Szolgáltató jóhírnevét csorbítja,
+* a Megrendelő gazdasági viszonyaiban, illetve jogi státuszában olyan jelentős visszaesés, illetve változás következett be vagy annak bekövetkezése fenyeget, amely a jelen szerződés teljesítését veszélyezteti, így különösen amennyiben a Megrendelő csőd-, felszámolási vagy végelszámolási eljárás hatálya alá kerül;
+* Megrendelő ellen büntetőeljárás indul, vagy a Megrendelkő alkalmazottjával, ill. alvállalkozói jogviszonyban álló személyekkel vagy vállalatokkal kapcsolatban bűncselekmény alapos gyanúja merül fel és az ennek kivizsgálása érdekében lefolytatandó eljárások folyamatban vannak;
+* Megrendelő hamis adatokat szolgáltat, adatszolgáltatási kötelezettségét megszegi, rosszhiszeműen jár el, illetve bármely magatartásával Szolgáltató jóhírnevét csorbítja;
 * Megrendelő titoktartási kötelezettségét megszegi.
 
 **12.7.** A szerződés megszűnése nem érinti a Megrendelő szerződés megszűnéséig fennálló díjfizetési kötelezettségét, illetve a Szolgáltató szerződés megszűnéséig fennálló szolgáltatási kötelezettségét.
@@ -416,12 +413,13 @@ Szolgáltató jogosult továbbá rendkívüli felmondást érvényesíteni és a
 
 **13.5.** Az ÁSZF és annak rendelkezései, továbbá az Adatvédelmi irányelvek együttesen alkotják a Felek között az e tárgyban létrejött teljes szerződést, mely felváltja a Felek minden korábbi írásbeli és szóbeli megállapodását, megegyezését, tárgyalását vagy bármely megbeszélését.
 
-**13.6.** Felek megállapodnak abban, hogy jogvitáikat tárgyalásos úton, peren kívül kísérelek meg rendezni, nem vesznek igénybe mediátori közreműködést.
+**13.6.** Felek megállapodnak abban, hogy jogvitáikat tárgyalásos úton, peren kívül kísérelik meg rendezni, nem vesznek igénybe mediátori közreműködést.
 
 **13.7.** Amennyiben a tárgyalások nem vezetnek eredményre, úgy a felek a Szolgáltató székhelye szerinti bíróság illetékességét kötik ki.
 
 **13.8.** Felek a jelen szerződésben vállalt feladataikat jóhiszeműen, egymás üzleti érdekeinek megfelelően hajtják végre, szem előtt tartva azt, hogy valamennyi általuk vagy az együttműködés során közösen végrehajtott feladat költséghatékony és a hatályos jogszabályoknak és műszaki előírásoknak minden tekintetben megfelelő megoldáson kell, hogy alapuljon.
 
-**13.9.** Amennyiben Megrendelő írásban nem nyilatkozik Szolgáltató felé arról, hogy hozzájárulását nem adja meg a a Szolgáltató és Megrendelő közötti együttműködés referenciaként történő felhasználásához, úgy Szolgáltató jogosult a Felek közötti szerződést referenciaként felhasználni, weboldalán megjeleníteni.
+**13.9.** Amennyiben Megrendelő írásban nem nyilatkozik Szolgáltató felé arról, hogy hozzájárulását nem adja meg a Szolgáltató és Megrendelő közötti együttműködés referenciaként történő felhasználásához, úgy Szolgáltató jogosult a Felek közötti szerződést referenciaként felhasználni, weboldalán megjeleníteni.
 
 **13.10.** Az ÁSZF idegen nyelvű és a magyar nyelvű verziói közötti bármely eltérés esetén, a magyar nyelvű szöveg az irányadó.
+
