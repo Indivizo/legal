@@ -11,26 +11,26 @@ The supported operating systems are Windows 7, Windows 8, Windows 10 and Mac OS 
 
 The application can be used on Linux systems as well, but we don't officially support those and don't do testing on these operating systems.
 
-Mobile devices, tablets are not supported. It is on our development roadmap to introduce support for them.
+Mobile devices and tablets are not supported. It is on our development roadmap to introduce support for them.
 
 ### Supported browsers
 
 #### Windows 7, 8, 10
 
-* Google Chrome, two latest versions;
-* Mozilla Firefox, two latest versions;
-* Internet Explorer 10 and 11;
-* Microsoft Edge.
+* Google Chrome, two latest versions
+* Mozilla Firefox, two latest versions
+* Internet Explorer 10 and 11
+* Microsoft Edge
 
 #### Mac OS X 10.9+
 
-* Google Chrome, two latest versions;
-* Mozilla Firefox, two latest versions.
+* Google Chrome, two latest versions
+* Mozilla Firefox, two latest versions
 
 
 ## Web addresses
 
-In case of using a firewall or any software that controls network traffic, allowing the following web addresses is required:
+If using a firewall or any software that controls network traffic, allowing the following web addresses is required:
 
 #### https://app.indivizo.com
 
@@ -59,31 +59,26 @@ Analytics, statistics and data for support requests are tracked here.
 
 #### Windows 7, 8, 10
 
-* Google Chrome, two latest versions.
-* Mozilla Firefox, two latest versions;
+* Google Chrome, two latest versions
+* Mozilla Firefox, two latest versions
 
 #### Mac OS X 10.9+
 
-* Google Chrome, two latest versions.
-* Mozilla Firefox, two latest versions;
+* Google Chrome, two latest versions
+* Mozilla Firefox, two latest versions
 
-Recording video interviews on mobile devices, tablets are not supported. It is on our development roadmap to introduce support for them.
+Recording video interviews on mobile devices and tablets is not supported. It is on our development roadmap to introduce support for them.
 
 ## Web addresses
 
-In case of using a firewall or any software that controls network traffic, allowing the following web addresses is required:
+If using a firewall or any software that controls network traffic, allowing the following web addresses is required:
 
 #### https://video.indivizo.com
 
 * TCP port 443;
-* TCP and UDP port 3478.
 
 Our video interview application.
 
 
-#### http://46.101.130.28
 
-* TCP and UDP port 3478.
-
-Our [TURN server](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT).
 

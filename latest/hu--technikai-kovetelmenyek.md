@@ -16,14 +16,14 @@ Mobil eszközök, tabletek jelenleg nem támogatottak, ezen eszközök támogat�
 
 #### Windows 7, 8, 10
 
-* Google Chrome két legutóbbi verziója;
-* Mozilla Firefox két legutóbbi verziója;
-* Internet Explorer 10 és 11.
+* Google Chrome két legutóbbi verziója
+* Mozilla Firefox két legutóbbi verziója
+* Internet Explorer 10 és 11
 
 #### Mac OS X 10.9+
 
-* Google Chrome két legutóbbi verziója;
-* Mozilla Firefox két legutóbbi verziója.
+* Google Chrome két legutóbbi verziója
+* Mozilla Firefox két legutóbbi verziója
 
 
 ## Webcímek
@@ -57,13 +57,13 @@ Analitikai, statisztikai ill. segítségnyújtásban használt adatokat gyűjtü
 
 #### Windows 7, 8, 10
 
-* Google Chrome két legutóbbi verziója;
-* Mozilla Firefox két legutóbbi verziója.
+* Google Chrome két legutóbbi verziója
+* Mozilla Firefox két legutóbbi verziója
 
 #### Mac OS X 10.9+
 
-* Google Chrome két legutóbbi verziója;
-* Mozilla Firefox két legutóbbi verziója.
+* Google Chrome két legutóbbi verziója
+* Mozilla Firefox két legutóbbi verziója
 
 
 Videointerjúk rögzítése mobil eszközökön, tableteken jelenleg nem támogatottak, ezen eszközök támogatásának bevezetése a fejlesztési terveink között szerepel.
@@ -74,15 +74,8 @@ Tűzfal vagy egyéb internetforgalmat korlátozó szoftver vagy eszköz használ
 
 #### https://video.indivizo.com
 
-* 443-as TCP port;
-* 3478-as TCP és UDP port.
-
-A videointerjú alkalmazásunk elérhetősége.
-
-
-#### http://46.101.130.28
-
+* 443-as TCP port
 * 3478-as TCP és UDP port
 
-A videointerjú rögzítését támogató [TURN szerverünk](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT) elérhetősége.
+A videointerjú alkalmazásunk elérhetősége.
 
