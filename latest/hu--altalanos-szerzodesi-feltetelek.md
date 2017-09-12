@@ -265,7 +265,7 @@ Az éves rendelkezésre állásnak nem képezik részét a hétvégi és ünnepn
 
 **8.11.** A Szolgáltató az adatokat a legkorszerűbb hardver- és szoftvertámogatás mellett különösen védi a jogosulatlan hozzáféréstől, megváltoztatástól, továbbítástól, nyilvánosságra hozataltól.
 
-**8.12.** A Szolgáltató által kezelt adatokat kizárólag Szolgáltatónak és a Megrendelőnek a Szolgáltatás céljainak megvalósításában résztvevő munkavállalói és alvállalkozói ismerhetik meg, akiket munkaszerződésük és a foglalkoztatásukra vonatkozó jogszabályi rendelkezések alapján valamennyi általuk megismert adat tekintetében titoktartási kötelezettség terhel, valamint a jelen ÁSZF 12. pontjában leírtak betartására kötelesek.
+**8.12.** A Szolgáltató által kezelt adatokat kizárólag Szolgáltatónak és a Megrendelőnek a Szolgáltatás céljainak megvalósításában résztvevő munkavállalói és alvállalkozói ismerhetik meg, akiket munkaszerződésük és a foglalkoztatásukra vonatkozó jogszabályi rendelkezések alapján valamennyi általuk megismert adat tekintetében titoktartási kötelezettség terhel, valamint a jelen ÁSZF 11. pontjában leírtak betartására kötelesek.
 
 Szolgáltató jogosult – nem rendeltetésszerű használat (beleértve a jelen ÁSZF-ben foglaltak megszegését, vagy bármely olyan cselekményt, ami a Szolgáltató jó hírnevét, társadalmi, üzleti megítélését sértheti), illetve 20 napot meghaladó fizetési késedelem esetén - Megrendelő hozzáférését inaktiválni vagy Free csomagra módosítani.
 

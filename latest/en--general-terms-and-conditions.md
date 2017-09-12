@@ -245,7 +245,7 @@ Annual availability does not involve weekends, public holidays, maintenance peri
 
 **8.11.** Service Provider shall protect data from illegal access, alteration, transfer or publication by using the most advanced hardware and software support.
 
-**8.12.** Data processed by Service Provider can only be disclosed to the employees and subcontractors of Service Provider and Client who are involved in the provision or use of the Service, and whose contract of employment contains the relevant non-disclosure provisions, which together with the relevant laws regulate their secrecy concerning all the data obtained during their work. Employees and subcontractors of Service Provider and Client should follow the regulations set forth in Section 12 of the present GTC.
+**8.12.** Data processed by Service Provider can only be disclosed to the employees and subcontractors of Service Provider and Client who are involved in the provision or use of the Service, and whose contract of employment contains the relevant non-disclosure provisions, which together with the relevant laws regulate their secrecy concerning all the data obtained during their work. Employees and subcontractors of Service Provider and Client should follow the regulations set forth in Section 11 of the present GTC.
 
 Service Provider is entitled to deactivate Client’s access to the Service, or downgrade Client’s package to the free package if Client breaches the regulations contained in the present GTC, or infringes the reputation of Service Provider, or in case of a payment delay longer than 20 days.
 
